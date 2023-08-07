@@ -104,7 +104,7 @@ const AboutMenu = () => {
                       alt='Support us through GitHub Sponsors'
                     />
                   </a>
-                  <a href='https://ko-fi.com/betterchatgpt' target='_blank'>
+                  <a href='https://ko-fi.com/devinglaw' target='_blank'>
                     <img
                       src='./kofi.svg'
                       alt='Support us through the Ko-fi platform.'
