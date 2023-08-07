@@ -114,7 +114,7 @@ const AboutMenu = () => {
                     <div className='flex flex-col items-center justify-center gap-1'>
                       <div>{t('support.alipay', { ns: 'about' })} (Ayaka)</div>
                       <img
-                        className='rounded-md w-32 h-32'
+                        className='rounded-md w-64 h-64'
                         src='https://github.com/pandoradevin/devinchatgpt/raw/main/alipay.jpg'
                         alt='Support us through Alipay'
                       />
@@ -124,7 +124,7 @@ const AboutMenu = () => {
                         {t('support.wechatPay', { ns: 'about' })} (Ayaka)
                       </div>
                       <img
-                        className='rounded-md w-32 h-32'
+                        className='rounded-md w-64 h-64'
                         src='https://github.com/pandoradevin/devinchatgpt/raw/main/wechat.jpg'
                         alt='Support us through WeChat Pay'
                       />
