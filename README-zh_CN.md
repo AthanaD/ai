@@ -164,7 +164,7 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 支付宝 (Ayaka) | <img src="http://ys-i.ysepan.com/622512050/119796032/l554L5I3NK3MKJmdjofdb7/alipay.jpg" width=150 />                                                                              |
 | 微信 (Ayaka)   | <img src="http://ys-i.ysepan.com/622512051/119796034/mdjofds473N1J7MI2OJN0e/wechat.jpg" width=150 />                                                                              |
-| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ztjhz) |
+| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/pandoradevin/devinchatgpt) |
 | KoFi           | [![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/devinglaw)                                                             |
 
 感谢您成为我们社区的一员，我们期待着在未来为您提供更好的服务。
