@@ -1,7 +1,7 @@
-<h1 align="center"><b>Better ChatGPT</b></h1>
+<h1 align="center"><b>Devin ChatGPT</b></h1>
 
 <p align="center">
-    <a href="http://pandoradevin.link" target="_blank"><img src="public/apple-touch-icon.png" alt="Better ChatGPT" width="100" /></a>
+    <a href="http://pandoradevin.link" target="_blank"><img src="public/apple-touch-icon.png" alt="Devin ChatGPT" width="100" /></a>
 </p>
 
 <h4 align="center"><b>免费、无限、强大、智能、迷人</b></h4>
@@ -32,9 +32,9 @@
     ·
     <a href="https://github.com/pandoradevin/devinchatgpt/issues/new/choose">请求功能</a>
 </p>
-<p align="center"><i>您喜欢使用 Better ChatGPT 吗？请给它一个星星以示支持！🌟</i></p>
+<p align="center"><i>您喜欢使用 Devin ChatGPT 吗？请给它一个星星以示支持！🌟</i></p>
 
-## 👋🏻 介绍 Better ChatGPT
+## 👋🏻 介绍 Devin ChatGPT
 
 <p align="center">
     <a href="http://pandoradevin.link" target="_blank">
@@ -42,15 +42,15 @@
     </a>
 </p>
 
-您准备好使用 Better ChatGPT 充分发掘 ChatGPT 的潜力了吗？
+您准备好使用 Devin ChatGPT 充分发掘 ChatGPT 的潜力了吗？
 
-Better ChatGPT 是任何想要体验对话型人工智能无限潜力的人的终极目的地。我们的应用程序利用 OpenAI 的 ChatGPT API 的全部潜力，提供了一个无与伦比的聊天机器人体验，而且完全免费，并且没有任何限制。
+Devin ChatGPT 是任何想要体验对话型人工智能无限潜力的人的终极目的地。我们的应用程序利用 OpenAI 的 ChatGPT API 的全部潜力，提供了一个无与伦比的聊天机器人体验，而且完全免费，并且没有任何限制。
 
-无论您是想与虚拟助手聊天、提高语言技能，还是想享受有趣而引人入胜的对话，我们的应用都能满足您的需求。那么，为什么还要等呢？立即加入我们，探索 Better ChatGPT 的精彩世界！
+无论您是想与虚拟助手聊天、提高语言技能，还是想享受有趣而引人入胜的对话，我们的应用都能满足您的需求。那么，为什么还要等呢？立即加入我们，探索 Devin ChatGPT 的精彩世界！
 
 # 🔥 功能
 
-Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
+Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 - 支持使用内置代理解決 ChatGPT 地区限制
 - 支持自定义提示词资料库
@@ -71,7 +71,7 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 # 🛠️ 使用方法
 
-要开始使用，只需访问我们的网站：<http://pandoradevin.link/>。您有 3 种方法可以开始使用 Better ChatGPT。
+要开始使用，只需访问我们的网站：<http://pandoradevin.link/>。您有 3 种方法可以开始使用 Devin ChatGPT。
 
 1. 在 API 菜单中输入您从 [OpenAI API Keys](https://platform.openai.com/account/api-keys) 获得的 OpenAI API 密钥。
 2. 使用提供的 API 端点代理：[ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree)。（如果您所在的区域无法访问 ChatGPT）
@@ -90,11 +90,11 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 ### 功能
 
 - 无限本地存储
-- 本地运行（即使无法访问 Better ChatGPT 网站也可以使用）
+- 本地运行（即使无法访问 Devin ChatGPT 网站也可以使用）
 
 # 🛫 托管自己的实例
 
-如果您想运行自己的 Better ChatGPT 实例，可以按照以下步骤轻松完成：
+如果您想运行自己的 Devin ChatGPT 实例，可以按照以下步骤轻松完成：
 
 ## Vercel
 
@@ -141,7 +141,7 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 [![Star History Chart](https://api.star-history.com/svg?repos=pandoradevin/devinchatgpt&type=Date)](https://github.com/pandoradevin/devinchatgpt/stargazers)
 
 <h3 align="center">
-    给 <b>Better ChatGPT</b> 一个星星 ⭐️ 可以让它更加锦上添花，让更多人受益匪浅。
+    给 <b>Devin ChatGPT</b> 一个星星 ⭐️ 可以让它更加锦上添花，让更多人受益匪浅。
 </h3>
 
 # ❤️ 贡献者
@@ -154,7 +154,7 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 # 🙏 支持
 
-在 Better ChatGPT，我们致力于为您提供实用和惊人的功能。就像任何项目一样，您的支持和激励将对我们在保持前进方面起到至关重要的作用！
+在 Devin ChatGPT，我们致力于为您提供实用和惊人的功能。就像任何项目一样，您的支持和激励将对我们在保持前进方面起到至关重要的作用！
 
 如果您喜欢使用我们的应用程序，我们恳请您给这个项目一颗 ⭐️。您的认可对我们意义重大，鼓励我们更加努力，以提供最佳的体验。
 
@@ -162,8 +162,8 @@ Better ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 | 付款方式       | 链接                                                                                                                                                 |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 支付宝 (Ayaka) | <img src="https://ayaka14732.github.io/sponsor/alipay.jpg" width=150 />                                                                              |
-| 微信 (Ayaka)   | <img src="https://ayaka14732.github.io/sponsor/wechat.png" width=150 />                                                                              |
+| 支付宝 (Ayaka) | <img src="http://ys-i.ysepan.com/622512050/119796032/l554L5I3NK3MKJmdjofdb7/alipay.jpg" width=150 />                                                                              |
+| 微信 (Ayaka)   | <img src="http://ys-i.ysepan.com/622512051/119796034/mdjofds473N1J7MI2OJN0e/wechat.jpg" width=150 />                                                                              |
 | GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ztjhz) |
 | KoFi           | [![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/betterchatgpt)                                                             |
 
