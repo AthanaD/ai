@@ -115,7 +115,7 @@ const AboutMenu = () => {
                       <div>{t('support.alipay', { ns: 'about' })} (Ayaka)</div>
                       <img
                         className='rounded-md w-32 h-32'
-                        src='https://ayaka14732.github.io/sponsor/alipay.jpg'
+                        src='https://github.com/pandoradevin/devinchatgpt/blob/main/alipay.jpg'
                         alt='Support us through Alipay'
                       />
                     </div>
@@ -125,7 +125,7 @@ const AboutMenu = () => {
                       </div>
                       <img
                         className='rounded-md w-32 h-32'
-                        src='https://ayaka14732.github.io/sponsor/wechat.png'
+                        src='https://github.com/pandoradevin/devinchatgpt/blob/main/wechat.jpg'
                         alt='Support us through WeChat Pay'
                       />
                     </div>
