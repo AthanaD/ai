@@ -1,4 +1,4 @@
-<h1 align="center"><b>Better ChatGPT</b></h1>
+<h1 align="center"><b>Devin ChatGPT</b></h1>
 
 <p align="center">
    English Version |
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="http://pandoradevin.link" target="_blank"><img src="public/apple-touch-icon.png" alt="Better ChatGPT" width="100" /></a>
+    <a href="http://pandoradevin.link" target="_blank"><img src="public/apple-touch-icon.png" alt="Devin ChatGPT" width="100" /></a>
 </p>
 
 <h4 align="center"><b>Free, Powerful, Limitless, Intelligent, Engaging</b></h4>
@@ -39,9 +39,9 @@
     ·
     <a href="https://github.com/pandoradevin/devinchatgpt/issues/new/choose">Request Feature</a>
 </p>
-<p align="center"><i>Did you enjoy using Better ChatGPT? Give it some love with a star! 🌟</i></p>
+<p align="center"><i>Did you enjoy using Devin ChatGPT? Give it some love with a star! 🌟</i></p>
 
-## 👋🏻 Introducing Better ChatGPT
+## 👋🏻 Introducing Devin ChatGPT
 
 <p align="center">
     <a href="http://pandoradevin.link" target="_blank">
@@ -49,15 +49,15 @@
     </a>
 </p>
 
-Are you ready to unlock the full potential of ChatGPT with Better ChatGPT?
+Are you ready to unlock the full potential of ChatGPT with Devin ChatGPT?
 
-Better ChatGPT is the ultimate destination for anyone who wants to experience the limitless power of conversational AI. With no limits and completely free to use for all, our app harnesses the full potential of OpenAI's ChatGPT API to offer you an unparalleled chatbot experience.
+Devin ChatGPT is the ultimate destination for anyone who wants to experience the limitless power of conversational AI. With no limits and completely free to use for all, our app harnesses the full potential of OpenAI's ChatGPT API to offer you an unparalleled chatbot experience.
 
-Whether you're looking to chat with a virtual assistant, improve your language skills, or simply enjoy a fun and engaging conversation, our app has got you covered. So why wait? Join us today and explore the exciting world of Better ChatGPT!
+Whether you're looking to chat with a virtual assistant, improve your language skills, or simply enjoy a fun and engaging conversation, our app has got you covered. So why wait? Join us today and explore the exciting world of Devin ChatGPT!
 
 # 🔥 Features
 
-Better ChatGPT comes with a bundle of amazing features! Here are some of them:
+Devin ChatGPT comes with a bundle of amazing features! Here are some of them:
 
 - Proxy to bypass ChatGPT regional restrictions
 - Prompt library
@@ -78,7 +78,7 @@ Better ChatGPT comes with a bundle of amazing features! Here are some of them:
 
 # 🛠️ Usage
 
-To get started, simply visit our website at <http://pandoradevin.link/>. There are 3 ways for you to start using Better ChatGPT.
+To get started, simply visit our website at <http://pandoradevin.link/>. There are 3 ways for you to start using Devin ChatGPT.
 
 1. Enter into the API menu your OpenAI API Key obtained from [OpenAI API Keys](https://platform.openai.com/account/api-keys).
 2. Utilise the api endpoint proxy provided by [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) (if you are in a region with no access to ChatGPT)
@@ -97,11 +97,11 @@ Download the desktop app [here](https://github.com/pandoradevin/devinchatgpt/rel
 ### Features:
 
 - Unlimited local storage
-- Runs locally (access Better ChatGPT even if the website is not accessible)
+- Runs locally (access Devin ChatGPT even if the website is not accessible)
 
 # 🛫 Host your own Instance
 
-If you'd like to run your own instance of Better ChatGPT, you can easily do so by following these steps:
+If you'd like to run your own instance of Devin ChatGPT, you can easily do so by following these steps:
 
 ## Vercel
 
@@ -148,7 +148,7 @@ One click deploy with Vercel
 [![Star History Chart](https://api.star-history.com/svg?repos=pandoradevin/devinchatgpt&type=Date)](https://github.com/pandoradevin/devinchatgpt/stargazers)
 
 <h3 align="center">
-A ⭐️ to <b>Better ChatGPT</b> is to make it shine brighter and benefit more people.
+A ⭐️ to <b>Devin ChatGPT</b> is to make it shine brighter and benefit more people.
 </h3>
 
 # ❤️ Contributors
@@ -161,7 +161,7 @@ Thanks to all the contributors!
 
 # 🙏 Support
 
-At Better ChatGPT, we strive to provide you with useful and amazing features around the clock. And just like any project, your support and motivation will be instrumental in helping us keep moving forward!
+At Devin ChatGPT, we strive to provide you with useful and amazing features around the clock. And just like any project, your support and motivation will be instrumental in helping us keep moving forward!
 
 If you have enjoyed using our app, we kindly ask you to give this project a ⭐️. Your endorsement means a lot to us and encourages us to work harder towards delivering the best possible experience.
 
