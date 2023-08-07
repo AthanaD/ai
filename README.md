@@ -169,9 +169,9 @@ If you would like to support the team, consider sponsoring us through one of the
 
 | Payment Method | Link                                                                                                                                                 |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ztjhz) |
-| KoFi           | [![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/betterchatgpt)                                                             |
-| Alipay (Ayaka) | <img src="https://ayaka14732.github.io/sponsor/alipay.jpg" width=150 />                                                                              |
-| Wechat (Ayaka) | <img src="https://ayaka14732.github.io/sponsor/wechat.png" width=150 />                                                                              |
+| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/pandoradevin/devinchatgpt) |
+| KoFi           | [![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/devinglaw)                                                             |
+| Alipay (Ayaka) | <img src="https://github.com/pandoradevin/devinchatgpt/blob/main/alipay.jpg" width=150 />                                                                              |
+| Wechat (Ayaka) | <img src="https://github.com/pandoradevin/devinchatgpt/blob/main/wechat.jpg" width=150 />                                                                              |
 
 Thank you for being a part of our community, and we look forward to serving you better in the future.
