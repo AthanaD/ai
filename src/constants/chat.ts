@@ -29,7 +29,7 @@ export const modelOptions: ModelOptions[] = [
   // 'gpt-4-32k-0314',
 ];
 
-export const defaultModel = 'gpt-4';
+export const defaultModel = 'gpt-4-1106-preview';
 
 export const modelMaxToken = {
   'gpt-3.5-turbo': 4096,
@@ -102,7 +102,7 @@ export const modelCost = {
   },
 };
 
-export const defaultUserMaxToken = 8192;
+export const defaultUserMaxToken = 128000;
 
 export const _defaultChatConfig: ConfigInterface = {
   model: defaultModel,
