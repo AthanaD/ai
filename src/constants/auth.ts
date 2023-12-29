@@ -1,4 +1,4 @@
-export const officialAPIEndpoint = 'https://aki.deviner.link/v1/chat/completions';
+export const officialAPIEndpoint = 'https://aki.deviner.org/v1/chat/completions';
 const customAPIEndpoint =
   import.meta.env.VITE_CUSTOM_API_ENDPOINT || 'https://api.openai.com/v1/chat/completions';
 export const defaultAPIEndpoint =
