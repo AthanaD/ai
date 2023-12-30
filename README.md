@@ -29,7 +29,7 @@
 <a href="https://github.com/pandoradevin/devinchatgpt/pulls" target="_blank">
 <img src="https://img.shields.io/github/issues-pr/pandoradevin/devinchatgpt?style=flat-square" alt="pull-requests"/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20repo%20https://github.com/pandoradevin/devinchatgpt,%20created%20by%20@nikushii_"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT"></a>
+<a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20repo%20https://github.com/pandoradevin/devinchatgpt,%20created%20by%20@nikushii_"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2FDevin%2FBetterChatGPT"></a>
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ If you'd like to run your own instance of Devin ChatGPT, you can easily do so by
 
 One click deploy with Vercel
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDevin%2FDevinChatGPT)
 
 ## GitHub Pages
 
