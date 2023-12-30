@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="http://pandoradevin.link" target="_blank"><img src="public/apple-touch-icon.png" alt="Devin ChatGPT" width="100" /></a>
+    <a href="https://ai.deviner.org" target="_blank"><img src="public/apple-touch-icon.png" alt="Devin ChatGPT" width="100" /></a>
 </p>
 
 <h4 align="center"><b>Free, Powerful, Limitless, Intelligent, Engaging</b></h4>
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <a href="http://pandoradevin.link">Enter Website</a>
+    <a href="https://ai.deviner.org">Enter Website</a>
     ·
     <a href="https://github.com/pandoradevin/devinchatgpt/issues/new/choose">Report Bug</a>
     ·
@@ -44,7 +44,7 @@
 ## 👋🏻 Introducing Devin ChatGPT
 
 <p align="center">
-    <a href="http://pandoradevin.link" target="_blank">
+    <a href="https://ai.deviner.org" target="_blank">
         <img src="assets/preview.png" alt="landing" width=500 />
     </a>
 </p>
@@ -78,11 +78,11 @@ Devin ChatGPT comes with a bundle of amazing features! Here are some of them:
 
 # 🛠️ Usage
 
-To get started, simply visit our website at <http://pandoradevin.link/>. There are 3 ways for you to start using Devin ChatGPT.
+To get started, simply visit our website at <https://ai.deviner.org/>. There are 3 ways for you to start using Devin ChatGPT.
 
 1. Enter into the API menu your OpenAI API Key obtained from [OpenAI API Keys](https://platform.openai.com/account/api-keys).
-2. Utilise the api endpoint proxy provided by [ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) (if you are in a region with no access to ChatGPT)
-3. Host your own API endpoint by following the instructions provided here: <https://github.com/ayaka14732/ChatGPTAPIFree>. Subsequently, enter the API endpoint into the API menu.
+2. Utilise the api endpoint proxy provided by [Athana-devin/ChatGPTAPIFree](https://github.com/Athana-devin/ChatGPTAPIFree) (if you are in a region with no access to ChatGPT)
+3. Host your own API endpoint by following the instructions provided here: <https://github.com/Athana-devin/ChatGPTAPIFree>. Subsequently, enter the API endpoint into the API menu.
 
 ## Desktop App
 
