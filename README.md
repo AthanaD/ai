@@ -29,7 +29,7 @@
 <a href="https://github.com/pandoradevin/devinchatgpt/pulls" target="_blank">
 <img src="https://img.shields.io/github/issues-pr/pandoradevin/devinchatgpt?style=flat-square" alt="pull-requests"/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20repo%20https://github.com/pandoradevin/devinchatgpt,%20created%20by%20@nikushii_"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2FDevin%2FBetterChatGPT"></a>
+<a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20repo%20https://github.com/pandoradevin/devinchatgpt,%20created%20by%20@nikushii_"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2FDevin%2FDevinChatGPT"></a>
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ One click deploy with Vercel
    - [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
 2. Clone this [repository](https://github.com/pandoradevin/devinchatgpt) by running `git clone https://github.com/pandoradevin/devinchatgpt.git`
-3. Navigate into the directory by running `cd BetterChatGPT`
+3. Navigate into the directory by running `cd DevinChatGPT`
 4. Run `yarn` or `npm install`, depending on whether you have yarn or npm installed.
 5. Launch the app by running `yarn dev` or `npm run dev`
 
@@ -174,4 +174,4 @@ If you would like to support the team, consider sponsoring us through one of the
 | Alipay (Ayaka) | <img src="https://github.com/pandoradevin/devinchatgpt/blob/main/alipay.jpg" width=150 />                                                                              |
 | Wechat (Ayaka) | <img src="https://github.com/pandoradevin/devinchatgpt/blob/main/wechat.jpg" width=150 />                                                                              |
 
-Thank you for being a part of our community, and we look forward to serving you better in the future.
+Thank you for being a part of our community, and we look forward to serving you Devin in the future.
