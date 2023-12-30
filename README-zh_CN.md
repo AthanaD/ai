@@ -7,30 +7,30 @@
 <h4 align="center"><b>免费、无限、强大、智能、迷人</b></h4>
 
 <p align="center">
-<a href="https://github.com/Athana-devin/devinchatgpt/blob/main/LICENSE" target="_blank">
-<img src="https://img.shields.io/github/license/Athana-devin/devinchatgpt?style=flat-square" alt="licence" />
+<a href="https://github.com/Athanad/devinchatgpt/blob/main/LICENSE" target="_blank">
+<img src="https://img.shields.io/github/license/Athanad/devinchatgpt?style=flat-square" alt="licence" />
 </a>
-<a href="https://github.com/Athana-devin/devinchatgpt/fork" target="_blank">
-<img src="https://img.shields.io/github/forks/Athana-devin/devinchatgpt?style=flat-square" alt="forks"/>
+<a href="https://github.com/Athanad/devinchatgpt/fork" target="_blank">
+<img src="https://img.shields.io/github/forks/Athanad/devinchatgpt?style=flat-square" alt="forks"/>
 </a>
-<a href="https://github.com/Athana-devin/devinchatgpt/stargazers" target="_blank">
-<img src="https://img.shields.io/github/stars/Athana-devin/devinchatgpt?style=flat-square" alt="stars"/>
+<a href="https://github.com/Athanad/devinchatgpt/stargazers" target="_blank">
+<img src="https://img.shields.io/github/stars/Athanad/devinchatgpt?style=flat-square" alt="stars"/>
 </a>
-<a href="https://github.com/Athana-devin/devinchatgpt/issues" target="_blank">
-<img src="https://img.shields.io/github/issues/Athana-devin/devinchatgpt?style=flat-square" alt="issues"/>
+<a href="https://github.com/Athanad/devinchatgpt/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/Athanad/devinchatgpt?style=flat-square" alt="issues"/>
 </a>
-<a href="https://github.com/Athana-devin/devinchatgpt/pulls" target="_blank">
-<img src="https://img.shields.io/github/issues-pr/Athana-devin/devinchatgpt?style=flat-square" alt="pull-requests"/>
+<a href="https://github.com/Athanad/devinchatgpt/pulls" target="_blank">
+<img src="https://img.shields.io/github/issues-pr/Athanad/devinchatgpt?style=flat-square" alt="pull-requests"/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=👋看看这个惊人的存储库%20https://github.com/Athana-devin/devinchatgpt，由%20@nikushii_%20创建。"><img src="https://img.shields.io/twitter/url?label=%E5%88%86%E4%BA%AB%E5%88%B0%E6%8E%A8%E7%89%B9&style=social&url=https%3A%2F%2Fgithub.com%2FDevin%2FDevinChatGPT"></a>
+<a href="https://twitter.com/intent/tweet?text=👋看看这个惊人的存储库%20https://github.com/Athanad/devinchatgpt，由%20@nikushii_%20创建。"><img src="https://img.shields.io/twitter/url?label=%E5%88%86%E4%BA%AB%E5%88%B0%E6%8E%A8%E7%89%B9&style=social&url=https%3A%2F%2Fgithub.com%2FDevin%2FDevinChatGPT"></a>
 </p>
 
 <p align="center">
     <a href="https://ai.deviner.org">进入网站</a>
     ·
-    <a href="https://github.com/Athana-devin/devinchatgpt/issues/new/choose">反馈问题</a>
+    <a href="https://github.com/Athanad/devinchatgpt/issues/new/choose">反馈问题</a>
     ·
-    <a href="https://github.com/Athana-devin/devinchatgpt/issues/new/choose">请求功能</a>
+    <a href="https://github.com/Athanad/devinchatgpt/issues/new/choose">请求功能</a>
 </p>
 <p align="center"><i>您喜欢使用 Devin ChatGPT 吗？请给它一个星星以示支持！🌟</i></p>
 
@@ -74,12 +74,12 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 要开始使用，只需访问我们的网站：<https://ai.deviner.org/>。您有 3 种方法可以开始使用 Devin ChatGPT。
 
 1. 在 API 菜单中输入您从 [OpenAI API Keys](https://platform.openai.com/account/api-keys) 获得的 OpenAI API 密钥。
-2. 使用提供的 API 端点代理：[ayaka14732/ChatGPTAPIFree](https://github.com/Athana-devin/ChatGPTAPIFree)。（如果您所在的区域无法访问 ChatGPT）
-3. 按照这里提供的说明托管自己的 API 端点：<https://github.com/Athana-devin/ChatGPTAPIFree>。随后，在 API 菜单中输入 API 端点。
+2. 使用提供的 API 端点代理：[ayaka14732/ChatGPTAPIFree](https://github.com/Athanad/ChatGPTAPIFree)。（如果您所在的区域无法访问 ChatGPT）
+3. 按照这里提供的说明托管自己的 API 端点：<https://github.com/Athanad/ChatGPTAPIFree>。随后，在 API 菜单中输入 API 端点。
 
 ## 桌面应用
 
-在此下载桌面应用程序：<https://github.com/Athana-devin/devinchatgpt/releases/>
+在此下载桌面应用程序：<https://github.com/Athanad/devinchatgpt/releases/>
 
 | 操作系统 | 下载      |
 | -------- | --------- |
@@ -107,8 +107,8 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 ### 步骤
 
 1. 创建一个 GitHub 账户（如果您还没有账户）。
-1. 给此[存储库](https://github.com/Athana-devin/devinchatgpt) 一个星星 ⭐️
-1. Fork 此[存储库](https://github.com/Athana-devin/devinchatgpt)
+1. 给此[存储库](https://github.com/Athanad/devinchatgpt) 一个星星 ⭐️
+1. Fork 此[存储库](https://github.com/Athanad/devinchatgpt)
 1. 在 fork 之后的存储库中点击 `Settings` 选项卡
    ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
 1. 在左侧边栏中，单击 `Pages` ，在右侧区域中，为 `Source` 选择 `GitHub Actions`。
@@ -131,14 +131,14 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
    - [node.js](https://nodejs.org/en/)
    - [yarn](https://yarnpkg.com/) 或者 [npm](https://www.npmjs.com/)
 
-2. 通过运行 `git clone https://github.com/Athana-devin/devinchatgpt.git` 克隆此[存储库](https://github.com/Athana-devin/devinchatgpt)。
+2. 通过运行 `git clone https://github.com/Athanad/devinchatgpt.git` 克隆此[存储库](https://github.com/Athanad/devinchatgpt)。
 3. 进入目录通过 `cd DevinChatGPT`
 4. 运行 `yarn` 或 `npm install`，具体取决于您是否安装了 yarn 或 npm。
 5. 运行 `yarn dev` 或 `npm run dev` 来启动应用程序。
 
 # ⭐️ 星星历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Athana-devin/devinchatgpt&type=Date)](https://github.com/Athana-devin/devinchatgpt/stargazers)
+[![Star History Chart](https://api.star-history.com/svg?repos=Athanad/devinchatgpt&type=Date)](https://github.com/Athanad/devinchatgpt/stargazers)
 
 <h3 align="center">
     给 <b>Devin ChatGPT</b> 一个星星 ⭐️ 可以让它更加锦上添花，让更多人受益匪浅。
@@ -148,8 +148,8 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 感谢所有贡献者！
 
-<a href="https://github.com/Athana-devin/devinchatgpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Athana-devin/devinchatgpt" />
+<a href="https://github.com/Athanad/devinchatgpt/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Athanad/devinchatgpt" />
 </a>
 
 # 🙏 支持
@@ -162,9 +162,9 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 | 付款方式       | 链接                                                                                                                                                 |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 支付宝 (Ayaka) | <img src="https://github.com/Athana-devin/devinchatgpt/blob/main/alipay.jpg" width=150 />                                                                              |
-| 微信 (Ayaka)   | <img src="https://github.com/Athana-devin/devinchatgpt/blob/main/wechat.jpg" width=150 />                                                                              |
-| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/Athana-devin/devinchatgpt) |
+| 支付宝 (Ayaka) | <img src="https://github.com/Athanad/devinchatgpt/blob/main/alipay.jpg" width=150 />                                                                              |
+| 微信 (Ayaka)   | <img src="https://github.com/Athanad/devinchatgpt/blob/main/wechat.jpg" width=150 />                                                                              |
+| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/Athanad/devinchatgpt) |
 | KoFi           | [![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/devinglaw)                                                             |
 
 感谢您成为我们社区的一员，我们期待着在未来为您提供更好的服务。
