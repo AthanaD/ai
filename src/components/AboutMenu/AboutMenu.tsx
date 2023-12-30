@@ -35,7 +35,7 @@ const AboutMenu = () => {
                   ns='about'
                   components={[
                     <a
-                      href='https://github.com/pandoradevin/devinchatgpt'
+                      href='https://github.com/Athana-devin/devinchatgpt'
                       target='_blank'
                       className='link'
                     />,
@@ -87,7 +87,7 @@ const AboutMenu = () => {
                     ns='about'
                     components={[
                       <a
-                        href='https://github.com/pandoradevin/devinchatgpt'
+                        href='https://github.com/Athana-devin/devinchatgpt'
                         target='_blank'
                         className='link'
                       />,
@@ -97,7 +97,7 @@ const AboutMenu = () => {
                 <p>{t('support.paragraph3', { ns: 'about' })}</p>
 
                 <div className='flex flex-col items-center gap-4 my-4'>
-                  <a href='https://github.com/pandoradevin/devinchatgpt' target='_blank'>
+                  <a href='https://github.com/Athana-devin/devinchatgpt' target='_blank'>
                     <img
                       src='https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86'
                       width='120px'
@@ -115,7 +115,7 @@ const AboutMenu = () => {
                       <div>{t('support.alipay', { ns: 'about' })} (Ayaka)</div>
                       <img
                         className='rounded-md w-32 h-32'
-                        src='https://github.com/pandoradevin/devinchatgpt/raw/main/alipay.jpg'
+                        src='https://github.com/Athana-devin/devinchatgpt/raw/main/alipay.jpg'
                         alt='Support us through Alipay'
                       />
                     </div>
@@ -125,7 +125,7 @@ const AboutMenu = () => {
                       </div>
                       <img
                         className='rounded-md w-32 h-32'
-                        src='https://github.com/pandoradevin/devinchatgpt/raw/main/wechat.jpg'
+                        src='https://github.com/Athana-devin/devinchatgpt/raw/main/wechat.jpg'
                         alt='Support us through WeChat Pay'
                       />
                     </div>
