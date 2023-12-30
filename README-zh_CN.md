@@ -22,7 +22,7 @@
 <a href="https://github.com/pandoradevin/devinchatgpt/pulls" target="_blank">
 <img src="https://img.shields.io/github/issues-pr/pandoradevin/devinchatgpt?style=flat-square" alt="pull-requests"/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=👋看看这个惊人的存储库%20https://github.com/pandoradevin/devinchatgpt，由%20@nikushii_%20创建。"><img src="https://img.shields.io/twitter/url?label=%E5%88%86%E4%BA%AB%E5%88%B0%E6%8E%A8%E7%89%B9&style=social&url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT"></a>
+<a href="https://twitter.com/intent/tweet?text=👋看看这个惊人的存储库%20https://github.com/pandoradevin/devinchatgpt，由%20@nikushii_%20创建。"><img src="https://img.shields.io/twitter/url?label=%E5%88%86%E4%BA%AB%E5%88%B0%E6%8E%A8%E7%89%B9&style=social&url=https%3A%2F%2Fgithub.com%2FDevin%2FDevinChatGPT"></a>
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 使用 Vercel 一键部署
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FDevin%2FDevinChatGPT)
 
 ## GitHub 页面
 
@@ -132,7 +132,7 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
    - [yarn](https://yarnpkg.com/) 或者 [npm](https://www.npmjs.com/)
 
 2. 通过运行 `git clone https://github.com/pandoradevin/devinchatgpt.git` 克隆此[存储库](https://github.com/pandoradevin/devinchatgpt)。
-3. 进入目录通过 `cd BetterChatGPT`
+3. 进入目录通过 `cd DevinChatGPT`
 4. 运行 `yarn` 或 `npm install`，具体取决于您是否安装了 yarn 或 npm。
 5. 运行 `yarn dev` 或 `npm run dev` 来启动应用程序。
 
