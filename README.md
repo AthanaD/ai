@@ -14,30 +14,30 @@
 <h4 align="center"><b>Free, Powerful, Limitless, Intelligent, Engaging</b></h4>
 
 <p align="center">
-<a href="https://github.com/pandoradevin/devinchatgpt/blob/main/LICENSE" target="_blank">
-<img src="https://img.shields.io/github/license/pandoradevin/devinchatgpt?style=flat-square" alt="licence" />
+<a href="https://github.com/Athana-devin/devinchatgpt/blob/main/LICENSE" target="_blank">
+<img src="https://img.shields.io/github/license/Athana-devin/devinchatgpt?style=flat-square" alt="licence" />
 </a>
-<a href="https://github.com/pandoradevin/devinchatgpt/fork" target="_blank">
-<img src="https://img.shields.io/github/forks/pandoradevin/devinchatgpt?style=flat-square" alt="forks"/>
+<a href="https://github.com/Athana-devin/devinchatgpt/fork" target="_blank">
+<img src="https://img.shields.io/github/forks/Athana-devin/devinchatgpt?style=flat-square" alt="forks"/>
 </a>
-<a href="https://github.com/pandoradevin/devinchatgpt/stargazers" target="_blank">
-<img src="https://img.shields.io/github/stars/pandoradevin/devinchatgpt?style=flat-square" alt="stars"/>
+<a href="https://github.com/Athana-devin/devinchatgpt/stargazers" target="_blank">
+<img src="https://img.shields.io/github/stars/Athana-devin/devinchatgpt?style=flat-square" alt="stars"/>
 </a>
-<a href="https://github.com/pandoradevin/devinchatgpt/issues" target="_blank">
-<img src="https://img.shields.io/github/issues/pandoradevin/devinchatgpt?style=flat-square" alt="issues"/>
+<a href="https://github.com/Athana-devin/devinchatgpt/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/Athana-devin/devinchatgpt?style=flat-square" alt="issues"/>
 </a>
-<a href="https://github.com/pandoradevin/devinchatgpt/pulls" target="_blank">
-<img src="https://img.shields.io/github/issues-pr/pandoradevin/devinchatgpt?style=flat-square" alt="pull-requests"/>
+<a href="https://github.com/Athana-devin/devinchatgpt/pulls" target="_blank">
+<img src="https://img.shields.io/github/issues-pr/Athana-devin/devinchatgpt?style=flat-square" alt="pull-requests"/>
 </a>
-<a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20repo%20https://github.com/pandoradevin/devinchatgpt,%20created%20by%20@nikushii_"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2FDevin%2FDevinChatGPT"></a>
+<a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20repo%20https://github.com/Athana-devin/devinchatgpt,%20created%20by%20@nikushii_"><img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2FDevin%2FDevinChatGPT"></a>
 </p>
 
 <p align="center">
     <a href="https://ai.deviner.org">Enter Website</a>
     ·
-    <a href="https://github.com/pandoradevin/devinchatgpt/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/Athana-devin/devinchatgpt/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/pandoradevin/devinchatgpt/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/Athana-devin/devinchatgpt/issues/new/choose">Request Feature</a>
 </p>
 <p align="center"><i>Did you enjoy using Devin ChatGPT? Give it some love with a star! 🌟</i></p>
 
@@ -86,7 +86,7 @@ To get started, simply visit our website at <https://ai.deviner.org/>. There are
 
 ## Desktop App
 
-Download the desktop app [here](https://github.com/pandoradevin/devinchatgpt/releases)
+Download the desktop app [here](https://github.com/Athana-devin/devinchatgpt/releases)
 
 | OS      | Download  |
 | ------- | --------- |
@@ -114,8 +114,8 @@ One click deploy with Vercel
 ### Steps
 
 1. Create a GitHub account (if you don't have one already)
-1. Star this [repository](https://github.com/pandoradevin/devinchatgpt) ⭐️
-1. Fork this [repository](https://github.com/pandoradevin/devinchatgpt)
+1. Star this [repository](https://github.com/Athana-devin/devinchatgpt) ⭐️
+1. Fork this [repository](https://github.com/Athana-devin/devinchatgpt)
 1. In your forked repository, navigate to the `Settings` tab
    ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
 1. In the left sidebar, click on `Pages` and in the right section, select `GitHub Actions` for `source`.
@@ -138,14 +138,14 @@ One click deploy with Vercel
    - [node.js](https://nodejs.org/en/)
    - [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
-2. Clone this [repository](https://github.com/pandoradevin/devinchatgpt) by running `git clone https://github.com/pandoradevin/devinchatgpt.git`
+2. Clone this [repository](https://github.com/Athana-devin/devinchatgpt) by running `git clone https://github.com/Athana-devin/devinchatgpt.git`
 3. Navigate into the directory by running `cd DevinChatGPT`
 4. Run `yarn` or `npm install`, depending on whether you have yarn or npm installed.
 5. Launch the app by running `yarn dev` or `npm run dev`
 
 # ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pandoradevin/devinchatgpt&type=Date)](https://github.com/pandoradevin/devinchatgpt/stargazers)
+[![Star History Chart](https://api.star-history.com/svg?repos=Athana-devin/devinchatgpt&type=Date)](https://github.com/Athana-devin/devinchatgpt/stargazers)
 
 <h3 align="center">
 A ⭐️ to <b>Devin ChatGPT</b> is to make it shine brighter and benefit more people.
@@ -155,8 +155,8 @@ A ⭐️ to <b>Devin ChatGPT</b> is to make it shine brighter and benefit more p
 
 Thanks to all the contributors!
 
-<a href="https://github.com/pandoradevin/devinchatgpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pandoradevin/devinchatgpt" />
+<a href="https://github.com/Athana-devin/devinchatgpt/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Athana-devin/devinchatgpt" />
 </a>
 
 # 🙏 Support
@@ -169,9 +169,9 @@ If you would like to support the team, consider sponsoring us through one of the
 
 | Payment Method | Link                                                                                                                                                 |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/pandoradevin/devinchatgpt) |
+| GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/Athana-devin/devinchatgpt) |
 | KoFi           | [![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/devinglaw)                                                             |
-| Alipay (Ayaka) | <img src="https://github.com/pandoradevin/devinchatgpt/blob/main/alipay.jpg" width=150 />                                                                              |
-| Wechat (Ayaka) | <img src="https://github.com/pandoradevin/devinchatgpt/blob/main/wechat.jpg" width=150 />                                                                              |
+| Alipay (Ayaka) | <img src="https://github.com/Athana-devin/devinchatgpt/blob/main/alipay.jpg" width=150 />                                                                              |
+| Wechat (Ayaka) | <img src="https://github.com/Athana-devin/devinchatgpt/blob/main/wechat.jpg" width=150 />                                                                              |
 
 Thank you for being a part of our community, and we look forward to serving you Devin in the future.
