@@ -1,7 +1,7 @@
 <h1 align="center"><b>Devin ChatGPT</b></h1>
 
 <p align="center">
-    <a href="http://Athana-devin.link" target="_blank"><img src="public/apple-touch-icon.png" alt="Devin ChatGPT" width="100" /></a>
+    <a href="https://ai.deviner.org" target="_blank"><img src="public/apple-touch-icon.png" alt="Devin ChatGPT" width="100" /></a>
 </p>
 
 <h4 align="center"><b>免费、无限、强大、智能、迷人</b></h4>
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-    <a href="http://Athana-devin.link">进入网站</a>
+    <a href="https://ai.deviner.org">进入网站</a>
     ·
     <a href="https://github.com/Athana-devin/devinchatgpt/issues/new/choose">反馈问题</a>
     ·
@@ -71,7 +71,7 @@ Devin ChatGPT 已经包含了大量的功能。您可以使用以下功能：
 
 # 🛠️ 使用方法
 
-要开始使用，只需访问我们的网站：<http://Athana-devin.link/>。您有 3 种方法可以开始使用 Devin ChatGPT。
+要开始使用，只需访问我们的网站：<https://ai.deviner.org/>。您有 3 种方法可以开始使用 Devin ChatGPT。
 
 1. 在 API 菜单中输入您从 [OpenAI API Keys](https://platform.openai.com/account/api-keys) 获得的 OpenAI API 密钥。
 2. 使用提供的 API 端点代理：[ayaka14732/ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree)。（如果您所在的区域无法访问 ChatGPT）
