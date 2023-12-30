@@ -1,20 +1,12 @@
-import React, { useEffect, useState } from 'react';
-import { useTranslation, Trans } from 'react-i18next';
+import React, { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import useStore from '@store/store';
-
 import useHideOnOutsideClick from '@hooks/useHideOnOutsideClick';
-
 import PopupModal from '@components/PopupModal';
-
 import { availableEndpoints, defaultAPIEndpoint } from '@constants/auth';
-
 import DownChevronArrow from '@icon/DownChevronArrow';
 
-const ApiMenu = ({
-  setIsModalOpen,
-}: {
-  setIsModalOpen: React.Dispatch<React.SetStateAction<boolean>>;
-}) => {
+const ApiMenu = ({ setIsModalOpen }: { setIsModalOpen: React.Dispatch<React.SetStateAction<boolean>>; }) => {
   const { t } = useTranslation(['main', 'api']);
 
   const apiKey = useStore((state) => state.apiKey);
@@ -37,7 +29,12 @@ const ApiMenu = ({
   const handleToggleCustomEndpoint = () => {
     if (_customEndpoint) _setApiEndpoint(defaultAPIEndpoint);
     else _setApiEndpoint('');
-    _setCustomEndpoint((prev) => !prev);
+    _setCustomEndpoint(prev => !prev);
+  };
+
+  const preventCopy = (e) => {
+    e.preventDefault();
+    alert("Copying API key is not allowed.");
   };
 
   return (
@@ -66,9 +63,7 @@ const ApiMenu = ({
               type='password'
               className='text-gray-800 dark:text-white p-3 text-sm border-none bg-gray-200 dark:bg-gray-600 rounded-md m-0 w-full mr-0 h-8 focus:outline-none'
               value={_apiEndpoint}
-              onChange={(e) => {
-                _setApiEndpoint(e.target.value);
-              }}
+              onChange={(e) => _setApiEndpoint(e.target.value)}
             />
           ) : (
             <ApiEndpointSelector
@@ -86,9 +81,8 @@ const ApiMenu = ({
             type='password'
             className='text-gray-800 dark:text-white p-3 text-sm border-none bg-gray-200 dark:bg-gray-600 rounded-md m-0 w-full mr-0 h-8 focus:outline-none'
             value={_apiKey}
-            onChange={(e) => {
-              _setApiKey(e.target.value);
-            }}
+            onChange={(e) => _setApiKey(e.target.value)}
+            onCopy={preventCopy}
           />
         </div>
 
@@ -102,15 +96,13 @@ const ApiMenu = ({
                   href='https://platform.openai.com/account/api-keys'
                   className='link'
                   target='_blank'
+                  rel='noopener noreferrer'
                 />,
               ]}
             />
           </p>
-
           <p>{t('securityMessage', { ns: 'api' })}</p>
-
           <p>{t('apiEndpoint.description', { ns: 'api' })}</p>
-
           <p>{t('apiEndpoint.warn', { ns: 'api' })}</p>
         </div>
       </div>
@@ -133,7 +125,7 @@ const ApiEndpointSelector = ({
         className='btn btn-neutral btn-small flex justify-between w-full'
         type='button'
         aria-label='expand api menu'
-        onClick={() => setDropDown((prev) => !prev)}
+        onClick={() => setDropDown(prev => !prev)}
       >
         <span className='truncate'>{_apiEndpoint}</span>
         <DownChevronArrow />
@@ -141,9 +133,7 @@ const ApiEndpointSelector = ({
       <div
         id='dropdown'
         ref={dropDownRef}
-        className={`${
-          dropDown ? '' : 'hidden'
-        } absolute top-100 bottom-100 z-10 bg-white rounded-lg shadow-xl border-b border-black/10 dark:border-gray-900/50 text-gray-800 dark:text-gray-100 group dark:bg-gray-800 opacity-90 w-32 w-full`}
+        className={`${dropDown ? '' : 'hidden'} absolute top-100 bottom-100 z-10 bg-white rounded-lg shadow-xl border-b border-black/10 dark:border-gray-900/50 text-gray-800 dark:text-gray-100 group dark:bg-gray-800 opacity-90 w-32 w-full`}
       >
         <ul
           className='text-sm text-gray-700 dark:text-gray-200 p-0 m-0'
