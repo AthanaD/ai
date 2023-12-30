@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useTranslation } from 'react-i18next';
+import { useTranslation, Trans } from 'react-i18next'; // 确保从'react-i18next'导入了Trans
 import useStore from '@store/store';
 import useHideOnOutsideClick from '@hooks/useHideOnOutsideClick';
 import PopupModal from '@components/PopupModal';
@@ -32,7 +32,7 @@ const ApiMenu = ({ setIsModalOpen }: { setIsModalOpen: React.Dispatch<React.SetS
     _setCustomEndpoint(prev => !prev);
   };
 
-  const preventCopy = (e) => {
+  const preventCopy = (e: React.ClipboardEvent<HTMLInputElement>) => { // 明确指定e的类型
     e.preventDefault();
     alert("Copying API key is not allowed.");
   };
@@ -60,7 +60,7 @@ const ApiMenu = ({ setIsModalOpen }: { setIsModalOpen: React.Dispatch<React.SetS
           </div>
           {_customEndpoint ? (
             <input
-              type='password'
+              type='text'
               className='text-gray-800 dark:text-white p-3 text-sm border-none bg-gray-200 dark:bg-gray-600 rounded-md m-0 w-full mr-0 h-8 focus:outline-none'
               value={_apiEndpoint}
               onChange={(e) => _setApiEndpoint(e.target.value)}
@@ -139,7 +139,7 @@ const ApiEndpointSelector = ({
           className='text-sm text-gray-700 dark:text-gray-200 p-0 m-0'
           aria-labelledby='dropdownDefaultButton'
         >
-          {availableEndpoints.map((endpoint) => (
+          {availableEndpoints.map(endpoint => (
             <li
               className='px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white cursor-pointer truncate'
               onClick={() => {
