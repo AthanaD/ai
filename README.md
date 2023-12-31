@@ -117,19 +117,19 @@ One click deploy with Vercel
 1. Star this [repository](https://github.com/Athanad/devinchatgpt) ⭐️
 1. Fork this [repository](https://github.com/Athanad/devinchatgpt)
 1. In your forked repository, navigate to the `Settings` tab
-   ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
+   ![image](https://github.com/AthanaD/devinchatgpt/blob/main/assets/232.png)
 1. In the left sidebar, click on `Pages` and in the right section, select `GitHub Actions` for `source`.
-   ![image](https://user-images.githubusercontent.com/59118459/227568881-d8fb7baa-f890-4dee-8fc2-b6b429ba2098.png)
+   ![image](https://github.com/AthanaD/devinchatgpt/blob/main/assets/098.png)
 1. Now, click on `Actions`
-   ![image](https://user-images.githubusercontent.com/59118459/223751928-cf2b91b9-4663-4a36-97de-5eb751b32c7e.png)
+   ![image](https://github.com/AthanaD/devinchatgpt/blob/main/assets/c7e.png)
 1. In the left sidebar, click on `Deploy to GitHub Pages`
    ![image](https://user-images.githubusercontent.com/59118459/223752459-183ec23f-72f5-436e-a088-e3386492b8cb.png)
 1. Above the list of workflow runs, select `Run workflow`.
    ![image](https://user-images.githubusercontent.com/59118459/223753340-1270e038-d213-4d6f-938c-66a30dad7c88.png)
 1. Navigate back to the `Settings` tab
-   ![image](https://user-images.githubusercontent.com/59118459/223753577-9b6f8266-26e8-471b-8f45-a1a02fbab232.png)
+   ![image](https://github.com/AthanaD/devinchatgpt/blob/main/assets/232.png)
 1. In the left sidebar, click on `Pages` and in the right section. Then at the top section, you can see that "Your site is live at `XXX`".
-   ![image](https://user-images.githubusercontent.com/59118459/227568881-d8fb7baa-f890-4dee-8fc2-b6b429ba2098.png)
+   ![image](https://github.com/AthanaD/devinchatgpt/blob/main/assets/098.png)
 
 ### Running it locally
 
