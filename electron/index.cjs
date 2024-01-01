@@ -70,7 +70,7 @@ const createTray = (window) => {
     win.maximize();
     window.show();
   });
-  tray.setToolTip('Better ChatGPT');
+  tray.setToolTip('Devin ChatGPT');
   tray.setContextMenu(contextMenu);
 
   return tray;
