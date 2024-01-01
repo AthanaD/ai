@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useTranslation, Trans } from 'react-i18next'; // 确保从'react-i18next'导入了Trans
+import { useTranslation, Trans } from 'react-i18next';
 import useStore from '@store/store';
 import useHideOnOutsideClick from '@hooks/useHideOnOutsideClick';
 import PopupModal from '@components/PopupModal';
@@ -9,16 +9,12 @@ import DownChevronArrow from '@icon/DownChevronArrow';
 const ApiMenu = ({ setIsModalOpen }: { setIsModalOpen: React.Dispatch<React.SetStateAction<boolean>>; }) => {
   const { t } = useTranslation(['main', 'api']);
 
-  const apiKey = useStore((state) => state.apiKey);
   const setApiKey = useStore((state) => state.setApiKey);
-  const apiEndpoint = useStore((state) => state.apiEndpoint);
   const setApiEndpoint = useStore((state) => state.setApiEndpoint);
 
-  const [_apiKey, _setApiKey] = useState<string>(apiKey || '');
-  const [_apiEndpoint, _setApiEndpoint] = useState<string>(apiEndpoint);
-  const [_customEndpoint, _setCustomEndpoint] = useState<boolean>(
-    !availableEndpoints.includes(apiEndpoint)
-  );
+  const [_apiEndpoint, _setApiEndpoint] = useState<string>(defaultAPIEndpoint);
+  const [_apiKey, _setApiKey] = useState<string>('');
+  const [_customEndpoint, _setCustomEndpoint] = useState<boolean>(false);
 
   const handleSave = () => {
     setApiKey(_apiKey);
@@ -27,12 +23,28 @@ const ApiMenu = ({ setIsModalOpen }: { setIsModalOpen: React.Dispatch<React.SetS
   };
 
   const handleToggleCustomEndpoint = () => {
-    if (_customEndpoint) _setApiEndpoint(defaultAPIEndpoint);
-    else _setApiEndpoint('');
+    if (_customEndpoint) {
+      _setApiEndpoint(defaultAPIEndpoint);
+      _setApiKey(import.meta.env.VITE_DEFAULT_API_KEY);
+    } else {
+      _setApiEndpoint('');
+      _setApiKey('');
+    }
     _setCustomEndpoint(prev => !prev);
   };
 
-  const preventCopy = (e: React.ClipboardEvent<HTMLInputElement>) => { // 明确指定e的类型
+  const handleApiEndpointChange = (newEndpoint: string) => {
+    _setApiEndpoint(newEndpoint);
+    if (newEndpoint === import.meta.env.VITE_OFFICIAL_API_ENDPOINT) {
+      _setApiKey(import.meta.env.VITE_OFFICIAL_API_KEY);
+    } else if (newEndpoint === import.meta.env.VITE_CUSTOM_API_ENDPOINT) {
+      _setApiKey(import.meta.env.VITE_CUSTOM_API_KEY);
+    } else {
+      _setApiKey('');
+    }
+  };
+
+  const preventCopy = (e: React.ClipboardEvent<HTMLInputElement>) => {
     e.preventDefault();
     alert("Copying API key is not allowed.");
   };
@@ -63,12 +75,12 @@ const ApiMenu = ({ setIsModalOpen }: { setIsModalOpen: React.Dispatch<React.SetS
               type='password'
               className='text-gray-800 dark:text-white p-3 text-sm border-none bg-gray-200 dark:bg-gray-600 rounded-md m-0 w-full mr-0 h-8 focus:outline-none'
               value={_apiEndpoint}
-              onChange={(e) => _setApiEndpoint(e.target.value)}
+              onChange={(e) => handleApiEndpointChange(e.target.value)}
             />
           ) : (
             <ApiEndpointSelector
               _apiEndpoint={_apiEndpoint}
-              _setApiEndpoint={_setApiEndpoint}
+              handleApiEndpointChange={handleApiEndpointChange}
             />
           )}
         </div>
@@ -112,10 +124,10 @@ const ApiMenu = ({ setIsModalOpen }: { setIsModalOpen: React.Dispatch<React.SetS
 
 const ApiEndpointSelector = ({
   _apiEndpoint,
-  _setApiEndpoint,
+  handleApiEndpointChange,
 }: {
   _apiEndpoint: string;
-  _setApiEndpoint: React.Dispatch<React.SetStateAction<string>>;
+  handleApiEndpointChange: (endpoint: string) => void;
 }) => {
   const [dropDown, setDropDown, dropDownRef] = useHideOnOutsideClick();
 
@@ -143,7 +155,7 @@ const ApiEndpointSelector = ({
             <li
               className='px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white cursor-pointer truncate'
               onClick={() => {
-                _setApiEndpoint(endpoint);
+                handleApiEndpointChange(endpoint);
                 setDropDown(false);
               }}
               key={endpoint}
@@ -158,3 +170,5 @@ const ApiEndpointSelector = ({
 };
 
 export default ApiMenu;
+
+                 
