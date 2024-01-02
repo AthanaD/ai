@@ -281,3 +281,62 @@
 .hljs-title {
   color: #f22c3d;
 }
+
+/* 添加的密码对话框样式 */
+.password-modal-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5); /* 半透明背景 */
+  z-index: 1000; /* 确保在最上层 */
+}
+
+.password-modal {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  width: 300px; /* 设置对话框宽度 */
+}
+
+.password-modal input,
+.password-modal button {
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%; /* 输入框和按钮宽度调整为100% */
+  box-sizing: border-box; /* 确保宽度包含内边距 */
+}
+
+.password-modal button {
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.password-modal button:hover {
+  background-color: #0056b3;
+}
+
+.modal-btn {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.modal-btn:hover {
+  background-color: #0056b3;
+}
