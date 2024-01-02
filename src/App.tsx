@@ -78,13 +78,18 @@ const handlePasswordSubmit = () => {
   console.log("ENV Password:", process.env.REACT_APP_ACCESS_PASSWORD);
   console.log("Entered Password:", password);
 
-  if (password === process.env.REACT_APP_ACCESS_PASSWORD) {
+  // 检查环境变量是否存在
+  const envPassword = process.env.REACT_APP_ACCESS_PASSWORD;
+
+  // 如果环境变量不存在或者密码匹配，则认证成功
+  if (!envPassword || password === envPassword) {
     setIsAuthenticated(true);
     setShowPasswordModal(false);
   } else {
     alert('Incorrect password');
   }
 };
+
 
   return (
     <div className='overflow-hidden w-full h-full relative'>
