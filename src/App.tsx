@@ -9,6 +9,7 @@ import { ChatInterface } from '@type/chat';
 import { Theme } from '@type/theme';
 import ApiPopup from '@components/ApiPopup';
 import Toast from '@components/Toast';
+import './main.css'; // 确保引入CSS文件
 
 function App() {
   const initialiseNewChat = useInitialiseNewChat();
@@ -19,6 +20,7 @@ function App() {
 
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [password, setPassword] = useState('');
+  const [showPasswordModal, setShowPasswordModal] = useState(true); // 默认显示密码模态框
 
   useEffect(() => {
     document.documentElement.lang = i18n.language;
@@ -51,7 +53,7 @@ function App() {
         } else {
           initialiseNewChat();
         }
-      } catch (e: unknown) {
+      } catch (e) {
         console.log(e);
         initialiseNewChat();
       }
@@ -74,31 +76,43 @@ function App() {
   const handlePasswordSubmit = () => {
     if (password === process.env.REACT_APP_ACCESS_PASSWORD) {
       setIsAuthenticated(true);
+      setShowPasswordModal(false);
     } else {
       alert('Incorrect password');
     }
   };
 
-  if (!isAuthenticated) {
-    return (
-      <div className="password-modal">
-        <input 
-          type="password"
-          value={password}
-          onChange={(e) => setPassword(e.target.value)}
-          placeholder="Enter password"
-        />
-        <button onClick={handlePasswordSubmit}>Submit</button>
-      </div>
-    );
-  }
-
   return (
     <div className='overflow-hidden w-full h-full relative'>
-      <Menu />
-      <Chat />
-      <ApiPopup />
-      <Toast />
+      {!isAuthenticated && (
+        <button onClick={() => setShowPasswordModal(true)} className="modal-btn">
+          Enter Password
+        </button>
+      )}
+
+      {showPasswordModal && !isAuthenticated && (
+        <div className="password-modal-container">
+          <div className="password-modal">
+            <input 
+              type="password"
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              placeholder="Enter password"
+            />
+            <button onClick={handlePasswordSubmit}>Submit</button>
+            <button onClick={() => setShowPasswordModal(false)}>Close</button>
+          </div>
+        </div>
+      )}
+
+      {isAuthenticated && (
+        <>
+          <Menu />
+          <Chat />
+          <ApiPopup />
+          <Toast />
+        </>
+      )}
     </div>
   );
 }
