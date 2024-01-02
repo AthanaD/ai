@@ -6,13 +6,25 @@ import AboutIcon from '@icon/AboutIcon';
 const AboutMenu = () => {
   const { t } = useTranslation(['main', 'about']);
   const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
+  const [password, setPassword] = useState<string>('');
+  const [isPasswordCorrect, setIsPasswordCorrect] = useState<boolean>(true);
+
+  const handlePasswordSubmit = () => {
+    if (password === process.env.REACT_APP_ACCESS_PASSWORD) {
+      setIsPasswordCorrect(true);
+      setIsModalOpen(true);
+    } else {
+      setIsPasswordCorrect(false);
+    }
+  };
 
   return (
     <>
       <a
         className='flex py-2 px-2 items-center gap-3 rounded-md hover:bg-gray-500/10 transition-colors duration-200 text-white cursor-pointer text-sm'
         onClick={() => {
-          setIsModalOpen(true);
+          setPassword(''); // Reset the password input
+          setIsPasswordCorrect(true); // Reset the password correctness state
         }}
       >
         <div>
@@ -20,6 +32,18 @@ const AboutMenu = () => {
         </div>
         {t('about')}
       </a>
+      {!isModalOpen && (
+        <div className="password-modal">
+          <input 
+            type="password" 
+            value={password} 
+            onChange={(e) => setPassword(e.target.value)} 
+            placeholder="Enter password"
+          />
+          <button onClick={handlePasswordSubmit}>Submit</button>
+          {!isPasswordCorrect && <p>Incorrect password</p>}
+        </div>
+      )}
       {isModalOpen && (
         <PopupModal
           title={t('about') as string}
