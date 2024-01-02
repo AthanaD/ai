@@ -73,14 +73,18 @@ function App() {
     }
   }, [initialiseNewChat, setApiKey, setChats, setCurrentChatIndex, setTheme]);
 
-  const handlePasswordSubmit = () => {
-    if (password === process.env.REACT_APP_ACCESS_PASSWORD) {
-      setIsAuthenticated(true);
-      setShowPasswordModal(false);
-    } else {
-      alert('Incorrect password');
-    }
-  };
+const handlePasswordSubmit = () => {
+  // 添加的调试信息
+  console.log("ENV Password:", process.env.REACT_APP_ACCESS_PASSWORD);
+  console.log("Entered Password:", password);
+
+  if (password === process.env.REACT_APP_ACCESS_PASSWORD) {
+    setIsAuthenticated(true);
+    setShowPasswordModal(false);
+  } else {
+    alert('Incorrect password');
+  }
+};
 
   return (
     <div className='overflow-hidden w-full h-full relative'>
