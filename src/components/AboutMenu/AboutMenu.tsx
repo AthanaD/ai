@@ -115,7 +115,7 @@ const AboutMenu = () => {
                       <div>{t('support.alipay', { ns: 'about' })} (Ayaka)</div>
                       <img
                         className='rounded-md w-32 h-32'
-                        src='https://github.com/Athanad/devinchatgpt/raw/main/alipay.jpg'
+                        src='https://s2.loli.net/2024/06/03/jWE9PgiwKTo3cBX.jpg'
                         alt='Support us through Alipay'
                       />
                     </div>
@@ -125,7 +125,7 @@ const AboutMenu = () => {
                       </div>
                       <img
                         className='rounded-md w-32 h-32'
-                        src='https://github.com/Athanad/devinchatgpt/raw/main/wechat.jpg'
+                        src='https://s2.loli.net/2024/06/03/mUbWhveTNwiuszH.jpg'
                         alt='Support us through WeChat Pay'
                       />
                     </div>
