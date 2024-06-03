@@ -171,7 +171,7 @@ If you would like to support the team, consider sponsoring us through one of the
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | GitHub         | [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/Athanad/devinchatgpt) |
 | KoFi           | [![support](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/devinglaw)                                                             |
-| Alipay (Ayaka) | <img src="https://github.com/Athanad/devinchatgpt/blob/main/alipay.jpg" width=150 />                                                                              |
-| Wechat (Ayaka) | <img src="https://github.com/Athanad/devinchatgpt/blob/main/wechat.jpg" width=150 />                                                                              |
+| Alipay (Ayaka) | <img src="https://s2.loli.net/2024/06/03/jWE9PgiwKTo3cBX.jpg" width=150 />                                                                              |
+| Wechat (Ayaka) | <img src="https://s2.loli.net/2024/06/03/mUbWhveTNwiuszH.jpg" width=150 />                                                                              |
 
 Thank you for being a part of our community, and we look forward to serving you Devin in the future.
