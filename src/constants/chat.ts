@@ -33,6 +33,9 @@ export const modelOptions: ModelOptions[] = [
   'gpt-4.1',
   'gpt-4.1-mini',
   'gpt-4.1-nano',
+  'gemini-2.5-pro',
+  'gemini-2.5-pro-06-05',
+  'gemini-2.5-pro-preview-06-05',
   // 'gpt-3.5-turbo-0301',
   // 'gpt-4-0314',
   // 'gpt-4-32k-0314',
@@ -60,9 +63,12 @@ export const modelMaxToken = {
   'gpt-4-turbo-2024-04-09': 128000,
   'gpt-4o': 128000,
   'gpt-4o-2024-05-13': 128000,
-  'gpt-4.1': 1000000,
-  'gpt-4.1-mini': 1000000,
-  'gpt-4.1-nano': 1000000, 
+  'gpt-4.1': 1047576,
+  'gpt-4.1-mini': 1047576,
+  'gpt-4.1-nano': 1047576, 
+  'gemini-2.5-pro': 1048576,
+  'gemini-2.5-pro-06-05': 1048576,
+  'gemini-2.5-pro-preview-06-05': 1048576,
 };
 
 export const modelCost = {
@@ -153,6 +159,18 @@ export const modelCost = {
   'gpt-4.1-nano': {
     prompt: { price: 0.0001, unit: 1000 },
     completion: { price: 0.0004, unit: 1000 },
+  },
+  'gemini-2.5-pro': {
+    prompt: { price: 0.00125, unit: 1000 },
+    completion: { price: 0.01, unit: 1000 },
+  },
+  'gemini-2.5-pro-06-05': {
+    prompt: { price: 0.00125, unit: 1000 },
+    completion: { price: 0.01, unit: 1000 },
+  },
+  'gemini-2.5-pro-preview-06-05': {
+    prompt: { price: 0.00125, unit: 1000 },
+    completion: { price: 0.01, unit: 1000 },
   },
 };
 
