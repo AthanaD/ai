@@ -64,7 +64,10 @@ export type ModelOptions =
   | 'gpt-3.5-turbo-0125'
   | 'gpt-4.1'
   | 'gpt-4.1-mini'
-  | 'gpt-4.1-nano';
+  | 'gpt-4.1-nano'
+  | 'gemini-2.5-pro'
+  | 'gemini-2.5-pro-06-05'
+  | 'gemini-2.5-pro-preview-06-05';
 // | 'gpt-3.5-turbo-0301';
 // | 'gpt-4-0314'
 // | 'gpt-4-32k-0314'
