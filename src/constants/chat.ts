@@ -174,7 +174,7 @@ export const modelCost = {
   },
 };
 
-export const defaultUserMaxToken = 8192;
+export const defaultUserMaxToken = 1048576;
 
 export const _defaultChatConfig: ConfigInterface = {
   model: defaultModel,
