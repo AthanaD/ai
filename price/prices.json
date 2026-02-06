@@ -1,0 +1,10010 @@
+[
+  {
+    "model": "ByteDance-Seed/Seed-OSS-36B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "FunAudioLLM/CosyVoice2-0.5B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Gemini 3 Flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "IndexTeam/IndexTTS-2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "MiniMaxAI/MiniMax-M1-80k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "MiniMaxAI/MiniMax-M2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/QwQ-32B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen-Image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen-Image-Edit",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen-Image-Edit-2509",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2-VL-72B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-14B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-32B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-72B-Instruct-128K",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-32B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-VL-32B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-VL-72B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-14B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-235B-A22B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-30B-A3B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-32B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Embedding-0.6B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Embedding-4B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Next-80B-A3B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Next-80B-A3B-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Omni-30B-A3B-Captioner",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Omni-30B-A3B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Omni-30B-A3B-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Reranker-0.6B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Reranker-4B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Reranker-8B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-VL-235B-A22B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-VL-235B-A22B-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-VL-30B-A3B-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-VL-32B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "THUDM/GLM-4-32B-0414",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "THUDM/GLM-4.1V-9B-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "THUDM/GLM-Z1-32B-0414",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "THUDM/GLM-Z1-Rumination-32B-0414",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "TeleAI/TeleSpeechASR",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Tongyi-Zhiwen/QwenLong-L1-32B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ascend-tribe/pangu-pro-moe",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "baai/bge-m3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "baidu/ERNIE-4.5-300B-A47B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/FLUX.1-Kontext-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/FLUX.1-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/FLUX.1-schnell",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bytedance/seed-oss-36b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-6",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-opus-4.5-think",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4.6",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-opus-4.6-think",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-OCR",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-V2.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-3-1b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-3-27b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "hyb-Optimal/Business/gemini-3-pro-image-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "hyb-Optimal/DeepSeek-R1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "hyb-Optimal/DeepSeek-V3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "hyb-Optimal/DeepSeek-V3.1-Terminus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "hyb-Optimal/gemini-2.5-flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "hyb-Optimal/gemini-2.5-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "hyb-Optimal/gemini-3-flash-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "hyb-Optimal/gemini-3-pro-image-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "hyb-Optimal/gemini-3-pro-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "hyb-Optimal/gemini-3-pro-preview-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "hyb-Optimal/gemini抗截断系列/gemini-2.5-flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "hyb-Optimal/gemini抗截断系列/gemini-2.5-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "inclusionAI/Ling-flash-2.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "inclusionAI/Ling-mini-2.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "inclusionAI/Ring-flash-2.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-3.1-405b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshotai/Kimi-Dev-72B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai/gpt-4.1-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "openai/gpt-4.1-nano",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "openai/gpt-4o-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "openai/gpt-5-nano",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "stepfun-ai/step-3.5-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stepfun-ai/step3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tencent/Hunyuan-A13B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tencent/Hunyuan-MT-7B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "2zai",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ALLaM-7B-Instruct-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "BAAI/bge-large-en-v1.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "BAAI/bge-large-zh-v1.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "BAAI/bge-m3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Balanced",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Bing",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Business/gemini-2.5-flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "Business/gemini-2.5-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "Business/gemini-3-pro-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "Business/gemini-auto",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Creative",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-Prover-V2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-R1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-R1-0528",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-R1-Distill-Llama-70B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-V3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-V3-0324",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-V3.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-V3.1-Terminus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-V3.1-cb",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-V3.2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-V3.2-Exp",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "DeepSeek-V3.2-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "E5-Mistral-7B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "FunAudioLLM/SenseVoiceSmall",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.5-Air",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.5-V",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.5-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.5V",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.6-V",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.6-V-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.6-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.7",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.7-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.7-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.7-thinking-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Gemini 3 Flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "I2V-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "I2V-01-Director",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "I2V-01-live",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Kimi-K2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Kimi-K2-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Kimi-K2-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Kwai-Kolors/Kolors",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Llama-3.3-Swallow-70B-Instruct-v0.4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Llama-4-Maverick-17B-128E-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "LongCat-Flash-Chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "LongCat-Flash-Lite",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "LongCat-Flash-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "LongCat-Flash-Thinking-2601",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Meta-Llama-3.1-8B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Meta-Llama-3.3-70B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "MiniMax-Hailuo-02",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "MiniMax-Hailuo-2.3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "MiniMax-Hailuo-2.3-Fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "MiniMax-M2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "MiniMax-M2.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "MiniMax/MiniMax-M2.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Phi-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Precise",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/QVQ-72B-Preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2-7B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen2.5-Coder-7B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-8B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Coder-480B-A35B-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-Embedding-8B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-VL-32B-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen/Qwen3-VL-8B-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen3-235B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen3-235B-A22B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen3-235B-A22B-Thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen3-32B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen3-Coder",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "S2V-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "T2V-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "T2V-01-Director",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "THUDM/GLM-4-9B-0414",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "THUDM/GLM-Z1-9B-0414",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "THUDM/glm-4-9b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Translation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Whisper-Large-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "XiaomiMiMo/MiMo-V2-Flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ZhipuAI/GLM-4.7",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ZhipuAI/GLM-4.7-Flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "advanced-voice",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "aion-1.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "aion-1.0-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "andreasjansson/stable-diffusion-animation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "animate-anyone-detect-gen2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "animate-anyone-gen2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "animate-anyone-template-gen2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "anthropic/claude-sonnet-4-5-20250929",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "avatar-generate",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "avatar-voice",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "babbage-002",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bailu-2.6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-2-flex",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-2-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-2-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-kontext-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-kontext-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-pro-1.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bfl/flux-pro-1.1-ultra",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bge-m3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bidara",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-1.1-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-1.1-pro-ultra",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-fill-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-fill-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-kontext-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-kontext-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-kontext-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-krea-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "black-forest-labs/flux-schnell",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "chat_fast_imagine",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "chat_fast_video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "chat_relax_imagine",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "chatgpt-4o-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "chirp-v2-xxl-alpha",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "chirp-v3-0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "cjwbw/rembg",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-1.3-100k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-3-5-haiku-20241022",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-5-haiku-latest",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-5-sonnet",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-5-sonnet-*",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-5-sonnet-20240620",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-5-sonnet-20241022",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-5-sonnet-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-5-sonnet-latest",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-7-sonnet-20250219",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "claude-3-7-sonnet-20250219-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "claude-3-7-sonnet-latest",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "claude-3-7-sonnet-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "claude-3-haiku-*",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-haiku-20240307",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-opus-*",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-opus-20240229",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-opus-latest",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3-sonnet-20240229",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3.5-haiku",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3.5-sonnet",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "claude-3.7-sonnet",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "claude-4-opus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 5
+  },
+  {
+    "model": "claude-4-sonnet",
+    "type": "times",
+    "channel_type": 1,
+    "input": 5
+  },
+  {
+    "model": "claude-4-sonnet-think",
+    "type": "times",
+    "channel_type": 1,
+    "input": 5
+  },
+  {
+    "model": "claude-4.1-opus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 5
+  },
+  {
+    "model": "claude-4.5-haiku",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "claude-4.5-haiku-2cc",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "claude-4.5-opus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "claude-4.5-sonnet",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "claude-4.5-sonnet-2cc",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "claude-4.5-sonnet-docs",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "claude-4.5-sonnet-real",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "claude-4.5-sonnet-think",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "claude-haiku-*",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-haiku-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-haiku-4-5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-haiku-4-5-20251001-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-haiku-4.5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-*",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-1-20250805-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-20250514-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4-5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4-5-20251101-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4-5-latest",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4-5-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4-6",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-opus-4-6-20260205",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-opus-4-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-opus-4.5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4.5-think",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-opus-4.6",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-opus-4.6-think",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-sonnet-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-sonnet-4-0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-sonnet-4-20250514-think",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-sonnet-4-20250514-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-sonnet-4-5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-sonnet-4-5-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-sonnet-4-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-sonnet-4-think",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-sonnet-4.5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-sonnet-4.5 [渠道id:33][輸出3k上限]",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-sonnet-4.5-think",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "code-llama-13b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "code-llama-34b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "code-llama-7b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "code-supernova-1-million",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "codestral-2508",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "command-a",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "command-r-08-2024",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "command-r-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "command-r-plus-08-2024",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "command-r7b-12-2024",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "dall-e-3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "davinci-002",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepl-en",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepl-zh",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1-0528",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1-0528-Turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-V3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-V3-0324",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-V3-0324-Turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-V3.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-V3.1-Terminus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-V3.2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-V3.2-Exp",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/Janus-Pro-7B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-coder-6.7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-r1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-r1-0528",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-r1-distill-llama-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-v3.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-v3.1-terminus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-v3.2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-vl2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-chat-v3-0324",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-chat-v3.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-coder-v2-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-llm-67b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ocr",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1-0528",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1-0528-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1-250528",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1-distill-llama-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-32b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1-metasearch",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1:1.5b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1:70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-r1:8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-reasoner",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-reasoner-164k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-reasoner-all",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-reasoning",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3-0324",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3-0324-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3-1-250821",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3-1-terminus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3-2-exp",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3-250324",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3-monica",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.1-reasoner",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.1-terminus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.1-terminus-reasoner",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.2-canopy",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.2-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.2-exp",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.2-reasoner",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.2-speciale",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-v3.2-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "devstral-2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "devstral-medium-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "devstral-small-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "direct-generate-pptx",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "docmee-ppt-generate",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "docmee-ppt-proxy",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "dolphin-24b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1-5-pro-256k-250115",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1-5-pro-32k-250115",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1-5-pro-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1-5-thinking-pro-250415",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1-5-thinking-pro-m-250428",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1-5-thinking-vision-pro-250428",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1-5-vision-pro-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1-5-vision-pro-32k-250115",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1.5-pro-256k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1.5-vision-pro-250328",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-1.5-vision-pro-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-lite-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-lite-4k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-pro-128k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-pro-256k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-pro-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seed-1-6-250615",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seed-1-6-flash-250615",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seed-1-6-thinking-250615",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seed-1-6-thinking-250715",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedance-1-0-lite-i2v-250428",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedance-1-0-lite-t2v-250428",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedance-1-0-pro-250528",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedance-1-0-pro-fast-251015",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedance-1-5-pro-251215",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seededit-3-0-i2i-250628",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedream-3-0-t2i-250415",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedream-4-0-250828",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedream-4-5-251128",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-vision-pro-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "elixpo-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "elixposearch",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "emo-detect-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "emo-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "emoji-detect-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "emoji-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ernie-4.5-21b-a3b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ernie-4.5-21b-a3b-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ernie-4.5-300b-a47b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "evil",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/bytedance/dreamina/v3.1/text-to-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/bytedance/seedream/v4/edit",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/bytedance/seedream/v4/text-to-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-1/dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-1/dev/image-to-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-1/dev/redux",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-1/schnell",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-1/schnell/redux",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-lora",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/kontext",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/kontext/max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/kontext/max/multi",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/kontext/max/text-to-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/kontext/multi",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/kontext/text-to-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/new",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/v1.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/v1.1-ultra-finetuned",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/v1.1-ultra/redux",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux-pro/v1.1/redux",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux/krea",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux/krea/image-to-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/flux/krea/redux",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/luma-dream-machine",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/luma-dream-machine/image-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/luma-dream-machine/ray-2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/luma-dream-machine/ray-2-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/luma-dream-machine/ray-2-flash/image-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/luma-dream-machine/ray-2/image-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/nano-banana",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/nano-banana/edit",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/qwen-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/qwen-image-edit",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/recraft/upscale/creative",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/recraft/upscale/crisp",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/recraft/v3/image-to-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/recraft/v3/text-to-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/recraft/vectorize",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/vidu/image-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/vidu/q1/image-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/vidu/q1/reference-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/vidu/q1/start-end-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/vidu/q1/text-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/vidu/reference-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/vidu/start-end-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "fal-ai/vidu/template-to-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-2-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-2-flex",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-2-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-2-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-kontext-apps/multi-image-kontext-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-kontext-apps/multi-image-kontext-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-kontext-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-kontext-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-pro-1.1-ultra",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-pro-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux-schnell",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux.1-dev",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "flux.1.1-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "freepass-gpt-4.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gemini-1.5-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-exp",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-exp-image-generation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-lite",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-lite-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-lite-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-lite-preview-02-05",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-thinking-exp",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-thinking-exp-01-21",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-thinking-exp-1219",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-pro-exp-02-05",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.5-computer-use-preview-10-2025",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash [渠道id:33][輸出3k上限]",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-image",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-image-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-lite-preview-06-17",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-lite-preview-09-2025",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-max",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-max-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-monica",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-preview-04-17",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-preview-04-17-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-preview-05-20-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-preview-09-2025",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-preview-tts",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-bs",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-exp-03-25",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-max",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-max-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-preview-03-25",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-preview-05-06",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-preview-06-05",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-preview-06-05-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-preview-tts",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-thinking-*",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-thinking-128",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-3-flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-flash-preview-thinking-*",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-3-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-16x9",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-1x1",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-21x9",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-2k",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-2k-16x9",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-2k-1x1",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-2k-21x9",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-2k-3x4",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-2k-4x3",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-2k-9x16",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-3x4",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-4k",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-4k-16x9",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-4k-1x1",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-4k-21x9",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-4k-3x4",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-4k-4x3",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-4k-9x16",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-4x3",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-9x16",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-preview-2k",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-image-preview-4k",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-bs",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-thinking-*",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-auto",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-claude-opus-4-5-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "gemini-claude-sonnet-4-5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "gemini-claude-sonnet-4-5-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "gemini-embedding-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-flash-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-flash-lite-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-imagen",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-pro-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-veo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemma-2-27b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemma-2-9b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemma-3-12b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemma-3-27b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemma-3-4b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemma2-9b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-3-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4-32b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4-flashx-250414",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-air",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-air-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-air-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-air-thinking-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-airx",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-thinking-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5-x",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.5v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6-thinking-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6v-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6v-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6v-thinking-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.7",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.7-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.7-flashx",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.7-free",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-z1-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google-palm",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/imagen-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/imagen-4-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/imagen-4-ultra",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5*",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5-turbo-0301",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5-turbo-0613",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5-turbo-16k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5-turbo-16k-0613",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-3.5-turbo-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4*",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-0125-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-0314",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-0613",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-1-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-1106-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-1106-vision-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-32k-0314",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-32k-0613",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-all",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-dalle",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-gizmo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-gizmo-*",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-turbo-2024-04-09",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-turbo-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4-vision-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4.1-2025-04-14",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4.1-mini-2025-04-14",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4.1-nano-2025-04-14",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o*",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-2024-05-13",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-2024-08-06",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-2024-11-20",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-all",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-audio-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-audio-preview-2024-10-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-audio-preview-2024-12-17",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-audio-preview-2025-06-03",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-image-vip",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-2024-07-18",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-audio-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-audio-preview-2024-12-17",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-realtime-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-realtime-preview-2024-12-17",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-search-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-search-preview-2025-03-11",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-transcribe",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-mini-tts",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-realtime-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-realtime-preview-2024-10-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-realtime-preview-2024-12-17",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-realtime-preview-2025-06-03",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-search-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-search-preview-2025-03-11",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-study",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-4o-transcribe",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "gpt-5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-2025-08-07",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-chat",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-chat-2025-08-07",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-chat-latest",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-codex",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-codex-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-codex-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-codex-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-codex-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-codex-mini-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-codex-mini-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-image",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-image-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-mini-2025-08-07",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-mini-flex",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-mini-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-mini-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-nano",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-nano [渠道id:33][輸出3k上限]",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-nano-2025-08-07",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-pro-2025-10-06",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-pro-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-search-api",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-search-api-2025-10-14",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-thinking-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-2025-11-13",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-chat",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-chat-latest",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-2cx",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-max",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-max-2cx",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-max-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-max-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-max-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-max-xhigh",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-mini-2cx",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-mini-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-codex-mini-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.1-thinking-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2(xhigh)",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-2025-12-11",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-2cx",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-chat",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-chat-latest",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-codex",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-codex(xhigh)",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-codex-2cx",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-codex-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-codex-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-codex-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-codex-xhigh",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-pro-2025-12-11",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-xhigh",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.3-codex",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.3-codex-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-audio",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-audio-2025-08-28",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-audio-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-audio-mini-2025-10-06",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-image-1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-image-1-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-image-1.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-oss-120b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-oss-120b-medium",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-oss-20b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-oss-safeguard-120b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-video-2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gpt-video-2-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-2-1212",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-2-vision-1212",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-beta",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-deepersearch",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-deepsearch",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-fast-beta",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-mini-beta",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-mini-fast-beta",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-reasoner",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-4",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-0709",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-1-fast-non-reasoning",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-1-fast-reasoning",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-expert",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-fast",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-fast-expert",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-fast-non-reasoning",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-fast-reasoning",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-heavy",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4.1",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4.1-expert",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4.1-fast",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4.1-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4.1-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-beta",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-code-fast-1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-imagine-0.9",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-imagine-1.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-imagine-1.0-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-video-3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-vision-beta",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok4.1-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gumloop-agent",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gummies_fastest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gummies_recommended",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gummies_smartest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "hailuo-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "higgsfield-ads",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "higgsfield-lite",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "higgsfield-speech",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "higgsfield-standard",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "higgsfield-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "hunyuan-t1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "hypnosis-tracy",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ideogram-ai/ideogram-v2-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ideogram-edit-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ideogram-generate-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ideogram-reframe-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ideogram-remix-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ideogram-replace-background-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "iflow-rome-30ba3b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "intellect-3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "internal-background-task",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "internlm/internlm2_5-7b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "jamba-large-1.7",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "jamba-mini-1.7",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "jimeng-videos",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "jina-reranker-v2-base-multilingual",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-for-coding",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-0711-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-0905",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-0905-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-250905",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-eco",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-instruct-0905",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-thinking-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2.5-instant",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-advanced-lip-sync",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-custom-elements",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-custom-voices",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-effects",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-identify-face",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-image-expend",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-image-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-image-v1-5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-image-v2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-image-v2-1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-kolors-virtual-try-on",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-lip-sync",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-meta-human",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-multi-image2image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-text-to-audio",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-tts",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-extend",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-o1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-to-audio",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-v1-5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-v1-6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-v2-1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-v2-1-master",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-v2-5-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-v2-6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-v2-master",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kolors-virtual-try-on-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kolors-virtual-try-on-v1-5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "liveportrait",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "liveportrait-detect",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-2-13b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-2-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-2-7b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3-8b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3-sonar-large-32k-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3-sonar-large-32k-online",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3-sonar-small-32k-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3-sonar-small-32k-online",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.1-405b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.1-405b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.1-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.1-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.1-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.1-8b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.1-8b-instruct-fp8",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.2-11b-vision-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.2-1b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.2-3b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.2-90b-vision-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.3-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.3-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-3.3-70b-instruct-fp8-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-4-maverick",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-4-maverick-17b-128e-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-4-scout",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-4-scout-17b-16e-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-fast-roblox",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama-roblox",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama3.1-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llama3.3-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "llamascout",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "lucataco/animate-diff",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "lucataco/flux-dev-lora",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "lucataco/flux-schnell-lora",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "lucataco/remove-bg",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "luma_video_api",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "magistral-medium-2509",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "magistral-small-2509",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mercury",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mercury-coder",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta-llama/Llama-4-Maverick-17B-128E-Instruct-Turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "midgen-flux",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "midgen-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "midgen-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "midijourney",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "midjourney",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mimo-v2-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax-m1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax-m1-80k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax-m2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax-m2-her",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax-m2.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax-m2.1-canopy",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax/speech-01-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax/speech-01-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax/speech-02-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax/speech-02-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax/speech-2.6-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax/speech-2.6-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax/video-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax/video-01-live",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimaxai/minimax-m2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimaxai/minimax-m2.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ministral-14b-2512",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ministral-3b-2512",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ministral-8b-2512",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mirexa",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-large-2512",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-large-3-675b-instruct-2512",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-large-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-medium",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-medium-2508",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-medium-3-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-roblox",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-small-2506",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-small-3.1-24b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistral-small-cloudflare",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mixtral-8x22b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mixtral-8x7b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_blend",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_custom_zoom",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_describe",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_edits",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_high_variation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_imagine",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_inpaint",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_low_variation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_modal",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_outpaint",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_pan",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_reroll",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_ric_reader",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_ricreader_retry",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_shorten",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_upload",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_upscale",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_upscale_2x",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_upscale_4x",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_variation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_fast_zoom",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_blend",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_custom_zoom",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_edits",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_high_variation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_imagine",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_inpaint",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_low_variation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_modal",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_outpaint",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_pan",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_reroll",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_ric_reader",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_ricreader_retry",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_shorten",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_upload",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_upscale",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_upscale_2x",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_upscale_4x",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_variation",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mj_relax_zoom",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshot-v1-128k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshot-v1-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshot-v1-8k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshotai/Kimi-K2-Instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshotai/Kimi-K2-Instruct-0905",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshotai/kimi-k2-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshotai/kimi-k2-instruct-0905",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshotai/kimi-k2-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "moonshotai/kimi-k2.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nano-banana",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nano-banana-2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nano-banana-2-2k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nano-banana-2-4k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nano-banana-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nano-banana-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "net-gpt-3.5-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "net-gpt-3.5-turbo-0613",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "net-gpt-3.5-turbo-16k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "net-gpt-3.5-turbo-16k-0613",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "net-gpt-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "net-gpt-4-0125-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "net-gpt-4-0314",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "net-gpt-4-0613",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "net-gpt-4-1106-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "net-gpt-4-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "net-gpt-4-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "net-gpt-4-turbo-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "net-gpt-4o",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.25
+  },
+  {
+    "model": "netease-youdao/bce-embedding-base_v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "netease-youdao/bce-reranker-base_v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nova-2-lite-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nova-lite-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nova-micro-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nova-premier-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nova-pro-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/embed-qa-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-*",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-2024-12-17",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-all",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-mini-2024-09-12",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-mini-all",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-preview-2024-09-12",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-preview-all",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o1-pro-all",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "o3",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-*",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-2025-04-16",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-deep-research",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-deep-research-2025-06-26",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-2025-01-31",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-2025-01-31-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-2025-01-31-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-2025-01-31-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-high-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-mini-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o3-pro-2025-06-10",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o4-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o4-mini-2025-04-16",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o4-mini-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o4-mini-deep-research",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o4-mini-deep-research-2025-06-26",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o4-mini-dr",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o4-mini-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "o4-mini-high-all",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "open-mistral-7b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "open-mistral-nemo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai-audio",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai-large",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai-reasoning",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai-roblox",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai/gpt-oss-120b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "openai/gpt-oss-20b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "phi",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "phi-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "phi-4-mini-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "phi-4-multimodal-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "phi-4-reasoning",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "pika-generate",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "pixtral-large-2411",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "pixverse-character",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "pixverse-video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "pixverse-video-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "playground-v2.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "prunaai/vace-14b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qvq-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qvq-max-2025-05-15",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qvq-max-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qvq-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qvq-plus-2025-05-15",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qvq-plus-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-2.5-72b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-2.5-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-2.5-coder-32b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-3-235b-a22b-instruct-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-3-235b-a22b-thinking-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-3-32b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-coder",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-coder-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-coder-plus-1106",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-coder-plus-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-coder-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-coder-turbo-0919",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-coder-turbo-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-edit",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-edit-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-edit-max-2026-01-16",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-edit-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-edit-plus-2025-10-30",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-edit-plus-2025-12-15",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-max-2025-12-30",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-image-plus-2026-01-09",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-long",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-long-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-math-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-math-plus-0919",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-math-plus-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-math-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-math-turbo-0919",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-math-turbo-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-max-0428",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-max-0919",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-max-2025-01-25",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-max-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-mt-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-mt-image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-mt-lite",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-mt-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-mt-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus-0919",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus-2025-01-25",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus-2025-04-28",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus-2025-07-14",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus-2025-09-11",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus-2025-11-05",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus-2025-12-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-plus-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-turbo-0919",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-turbo-2024-11-01",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-turbo-2025-04-28",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-turbo-2025-07-15",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-turbo-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-max-2025-04-02",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-max-2025-04-08",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-max-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-ocr",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-ocr-2025-11-20",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-ocr-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-plus-2025-01-25",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-plus-2025-05-07",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-plus-2025-08-15",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen-vl-plus-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwen3-coder-480b-a35b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwen3-next-80b-a3b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwq-32b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen1.5-110b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen1.5-14b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen1.5-32b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen1.5-72b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen1.5-7b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2-1.5b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2-57b-a14b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2-72b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2-vl-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-14b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-14b-instruct-1m",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-32b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-3b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-72b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-7b-instruct-1m",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-coder-14b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-coder-32b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-coder-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-math-72b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-math-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-vl-32b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-vl-3b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-vl-72b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen2.5-vl-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-0.6b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-1.7b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-14b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-235b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-235b-a22b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-235b-a22b-2507-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-235b-a22b-2507-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-235b-a22b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-235b-a22b-instruct-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-235b-a22b-thinking-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-30b-a3b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-30b-a3b-instruct-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-30b-a3b-thinking-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-32b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-4b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-coder",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-coder-480b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-coder-480b-a35b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-coder-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-coder-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-coder-plus-2025-07-22",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-coder-plus-2025-09-23",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-coder-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-embedding-0.6b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-embedding-4b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-embedding-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-max",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-max-2025-09-23",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-max-2026-01-23",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-max-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-next-80b-a3b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-next-80b-a3b-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-reranker-0.6b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-reranker-4b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-reranker-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-vl-235b-a22b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-vl-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-vl-flash-2025-10-15",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-vl-flash-2026-01-22",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-vl-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-vl-plus-2025-09-23",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3-vl-plus-2025-12-19",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwq-32b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwq-32b-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwq-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwq-plus-2025-03-05",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwq-plus-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "recraft-ai/recraft-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "recraft-ai/recraft-v3-svg",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "recraftv3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "rev19-uic3-1p",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "riffusion-music",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "riffusion-upload",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "riffusion/riffusion",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ring-1t",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "rtist",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "runway-act_one",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "runway-act_two",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "runway-aleph",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "runway-generate",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "runway-video2video",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "runwayml-gen3a_turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "runwayml-gen4_turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "search-gpts",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "search-gpts-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "seed-1.6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "seed-1.6-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "seededit",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "seedream-3.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "snowflake/arctic-embed-l",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sonar",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sonar-deep-research",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sonar-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sonar-pro-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sonar-reasoning-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-16:9-480p-10s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-16:9-480p-5s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-16:9-720p-5s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-1:1-480p-10s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-1:1-480p-5s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-1:1-720p-5s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-2-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-9:16-480p-10s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-9:16-480p-5s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-9:16-720p-5s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora-characters",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_image",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_image-vip",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-landscape-15s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-landscape-hd-15s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-landscape-hd-pro-25s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-landscape-pro-25s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-portrait-15s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-portrait-hd-15s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-portrait-hd-pro-25s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-portrait-pro-25s",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sora_video2-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "speech-01-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "speech-01-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "speech-02-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "speech-02-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "speech-2.6-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "speech-2.6-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stability-ai/sdxl",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stability-ai/stable-diffusion",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stability-ai/stable-diffusion-img2img",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stability-ai/stable-diffusion-inpainting",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stable-diffusion",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stable-diffusion-3-2b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "step-3.5-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stok-0.4.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sujaykhandekar/object-removal",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "suno-act-midi",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "suno-act-tags",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "suno-actions",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "suno_act-stems",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "suno_concat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "suno_lyrics",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "suno_music",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "suno_upload",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sur",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "swap_face",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tab_flash_lite_preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-ada-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-babbage-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-curie-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-davinci-edit-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-embedding-3-large",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-embedding-3-small",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-embedding-ada-002",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-moderation-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-moderation-stable",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-search-ada-doc-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tokyotech-llm/llama-3-swallow-70b-instruct-v0.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tstars2.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tts-1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tts-1-1106",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tts-1-hd",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tts-1-hd-1106",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "unity",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "v0-1.0-md",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "v0-1.5-lg",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "v0-1.5-md",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo2-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo2-fast-components",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo2-fast-frames",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo2-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3-fast-frames",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3-frames",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3-pro-frames",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-4k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-components",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-components-4k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-fast-4K",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-fast-components",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-fast-components-4K",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo3.1-pro-4k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "video-style-transform",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "videoretalk",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "vidu1.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "vidu2.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viduq1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viduq1-classic",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viduq2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viduq2-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viduq2-pro-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viduq2-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viduq3-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viggle-create",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viggle-pro-create",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viggle-pro-proxy",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "viggle-proxy",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "vision-model",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "volcv-dalle",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "volcv-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "voxtral-mini-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "voxtral-small-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.2-animate-mix",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.2-animate-move",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.2-i2v-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.2-i2v-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.2-kf2v-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.2-s2v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.2-s2v-detect",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.2-t2v-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.5-i2v-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.5-t2v-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.6-i2v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.6-r2v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wan2.6-t2v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wanx2.1-i2v-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wanx2.1-i2v-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wanx2.1-kf2v-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wanx2.1-t2v-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wanx2.1-t2v-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wanx2.1-vace-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "whisper-1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "wizardlm-2-8x22b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "z-ai/glm4.7",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "z-image-turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zai-glm-4.6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zai-glm-4.7",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zai-org/GLM-4.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zai-org/GLM-4.5-Air",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zai-org/GLM-4.5V",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zai-org/GLM-4.6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zhipu/glm-4-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zhipu/glm-4.5-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zhipu/glm-4v-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "假流式/gemini-2.5-flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-max",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-max-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-flash-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-2.5-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-max",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-max-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-2.5-pro-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-flash-preview-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "假流式/gemini-3-pro-preview-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-max",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-max-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-flash-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-max",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-max-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-2.5-pro-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-medium-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-minimal",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-minimal-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-flash-preview-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-low-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-maxthinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-maxthinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-nothinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-nothinking-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "流式抗截断/gemini-3-pro-preview-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  }
+]
