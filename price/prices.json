@@ -329,6 +329,12 @@
     "output": 4
   },
   {
+    "model": "code-davinci-edit-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "deepseek-ai/DeepSeek-OCR",
     "type": "times",
     "channel_type": 1,
@@ -348,6 +354,50 @@
   },
   {
     "model": "deepseek-ai/DeepSeek-V2.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-1.5-flash-002",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-1.5-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-1.5-pro-002",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.5-flash-native-audio-preview-09-2025",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash-preview-04-17-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-fast",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -549,6 +599,12 @@
     "output": 2.5
   },
   {
+    "model": "qwen-image-edit-2509",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "stepfun-ai/step-3.5-flash",
     "type": "times",
     "channel_type": 1,
@@ -568,6 +624,18 @@
   },
   {
     "model": "tencent/Hunyuan-MT-7B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo-3.1-fast-generate-preview",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "veo-3.1-generate-preview",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -3095,6 +3163,13 @@
   },
   {
     "model": "gemini-2.5-flash",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
+    "model": "gemini-2.5-flash (with tools)",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
