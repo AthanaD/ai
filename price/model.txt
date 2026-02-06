@@ -52,10 +52,18 @@
  claude-opus-4.5-think
  claude-opus-4.6
  claude-opus-4.6-think
+ code-davinci-edit-001
  deepseek-ai/DeepSeek-OCR
  deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
  deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
  deepseek-ai/DeepSeek-V2.5
+ gemini-1.5-flash-002
+ gemini-1.5-pro
+ gemini-1.5-pro-002
+ gemini-2.5-flash-native-audio-preview-09-2025
+ gemini-2.5-flash-preview-04-17-thinking
+ gemini-fast
+ glm-4
  google/gemma-3-1b-it
  google/gemma-3-27b-it
  hyb-Optimal/Business/gemini-3-pro-image-preview
@@ -86,10 +94,13 @@
  openai/gpt-4.1-nano
  openai/gpt-4o-mini
  openai/gpt-5-nano
+ qwen-image-edit-2509
  stepfun-ai/step-3.5-flash
  stepfun-ai/step3
  tencent/Hunyuan-A13B-Instruct
  tencent/Hunyuan-MT-7B
+ veo-3.1-fast-generate-preview
+ veo-3.1-generate-preview
 2zai
 ALLaM-7B-Instruct-preview
 BAAI/bge-large-en-v1.5
@@ -503,6 +514,7 @@ gemini-2.0-flash-thinking-exp-1219
 gemini-2.0-pro-exp-02-05
 gemini-2.5-computer-use-preview-10-2025
 gemini-2.5-flash
+gemini-2.5-flash (with tools)
 gemini-2.5-flash [渠道id:33][輸出3k上限]
 gemini-2.5-flash-high
 gemini-2.5-flash-high-search
