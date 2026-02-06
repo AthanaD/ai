@@ -1,6 +1,6 @@
 规则如下：
 1、凡是模型名称中包含"gpt-4"类型固定按次数input=0.25收费，凡是模型名称中包含"gpt-5"类型按input=37.5,output=2.5收费。
 2、凡是模型名称中包含"gemini-2.5"类型按input=37.5,output=2收费，但是如果模型名称中包含"flash"类型按input=37.5,output=1.5收费。凡是模型名称中包含"gemini-3"类型按input=37.5,output=2.5收费，但是如果模型名称中包含"flash"类型按input=37.5,output=1.5收费。
-3、凡是模型名称中包含"claude-3"或者"grok-4"类型按input=37.5,output=1收费。凡是模型名称中包含"claude-3-7"或者"claude-3.7"类型按input=37.5,output=1.5收费。凡是模型名称中包含"claude-4-"或者"claude-4.1"类型固定按次数input=5收费，凡是模型名称中包含"claude-4.5"类型固定按次数input=8收费。凡是模型名称中包含"claude-opus-4-5"或者"claude-haiku-4-5"或者"claude-sonnet-4-5"类型按input=37.5,output=3.5收费。凡是模型名称中包含"claude-opus-5"或者"claude-haiku-5"或者"claude-sonnet-5"类型按input=37.5,output=5收费。
+3、凡是模型名称中包含"claude-3"或者"grok-4"类型按input=37.5,output=1收费。凡是模型名称中包含"claude-3-7"或者"claude-3.7"类型按input=37.5,output=1.5收费。凡是模型名称中包含"claude-4-"或者"claude-4.1"类型固定按次数input=5收费，凡是模型名称中包含"claude-4.5"类型固定按次数input=8收费。凡是模型名称中包含"claude-opus-4-5"或者"claude-haiku-4-5"或者"claude-sonnet-4-5"类型按input=37.5,output=3.5收费。凡是模型名称中包含"claude-opus-5"或者"claude-haiku-5"或者"claude-sonnet-5"或者"claude-opus-4-6"或者"claude-haiku-4-6"或者"claude-sonnet-4-6"类型按input=37.5,output=4收费。
 4、凡是模型名称中包含"o3-"或者"o4-"（包括模型名称全称为"o3"或者"o4"）类型按input=37.5,output=2收费。
 5、其余不满足上述条件的所有模型统一固定按次数input=0.15收费。
