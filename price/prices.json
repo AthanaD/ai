@@ -1817,7 +1817,21 @@
     "output": 4
   },
   {
+    "model": "claude-opus-4-6-20260201",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
     "model": "claude-opus-4-6-20260205",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-opus-4-6-thinking",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -1949,6 +1963,19 @@
     "output": 3.5
   },
   {
+    "model": "claude-sonnet-5-20260203",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "code-davinci-edit-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "code-llama-13b",
     "type": "times",
     "channel_type": 1,
@@ -1974,6 +2001,12 @@
   },
   {
     "model": "codestral-2508",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "codex-mini",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -3083,6 +3116,12 @@
     "input": 0.15
   },
   {
+    "model": "gemini-1.5-pro",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "gemini-2.0-flash",
     "type": "times",
     "channel_type": 1,
@@ -3126,6 +3165,12 @@
   },
   {
     "model": "gemini-2.0-flash-lite-preview-02-05",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-2.0-flash-preview-image-generation",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -3554,6 +3599,13 @@
     "output": 2
   },
   {
+    "model": "gemini-2.5-pro-thinking-512",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
     "model": "gemini-3-flash",
     "type": "tokens",
     "channel_type": 1,
@@ -3939,6 +3991,20 @@
     "output": 2.5
   },
   {
+    "model": "gemini-3-pro-preview-thinking-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-preview-thinking-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
     "model": "gemini-auto",
     "type": "times",
     "channel_type": 1,
@@ -3967,6 +4033,12 @@
   },
   {
     "model": "gemini-embedding-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemini-fast",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -5217,6 +5289,13 @@
     "output": 2.5
   },
   {
+    "model": "gpt-5.3",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
     "model": "gpt-5.3-codex",
     "type": "tokens",
     "channel_type": 1,
@@ -5225,6 +5304,20 @@
   },
   {
     "model": "gpt-5.3-codex-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.3-codex-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.3-codex-medium",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -5315,7 +5408,19 @@
     "input": 0.15
   },
   {
+    "model": "grok-2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "grok-2-1212",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-2-vision",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -5375,7 +5480,43 @@
     "input": 0.15
   },
   {
+    "model": "grok-3-mini-beta-high",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-mini-beta-low",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-mini-beta-medium",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "grok-3-mini-fast-beta",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-mini-fast-beta-high",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-mini-fast-beta-low",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-3-mini-fast-beta-medium",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -5395,6 +5536,13 @@
   },
   {
     "model": "grok-4-0709",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
+    "model": "grok-4-0709-search",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -5799,6 +5947,12 @@
     "input": 0.15
   },
   {
+    "model": "kling-custom-elements-list",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "kling-custom-voices",
     "type": "times",
     "channel_type": 1,
@@ -5877,6 +6031,18 @@
     "input": 0.15
   },
   {
+    "model": "kling-presets-elements-list",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-presets-voices-list",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "kling-text-to-audio",
     "type": "times",
     "channel_type": 1,
@@ -5896,6 +6062,48 @@
   },
   {
     "model": "kling-video-extend",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-motion-control",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-multi-elements-add",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-multi-elements-clear",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-multi-elements-create",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-multi-elements-delete",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-multi-elements-init",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-video-multi-elements-preview",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -5956,6 +6164,12 @@
   },
   {
     "model": "kling-video-v2-master",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kling-voices-list",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
