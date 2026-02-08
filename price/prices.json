@@ -308,6 +308,13 @@
     "output": 4
   },
   {
+    "model": "claude-opus-4-6-20260205-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
     "model": "claude-opus-4.5-think",
     "type": "tokens",
     "channel_type": 1,
@@ -413,6 +420,20 @@
     "type": "times",
     "channel_type": 1,
     "input": 0.15
+  },
+  {
+    "model": "gpt-5-1-instant",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-1-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
   },
   {
     "model": "hyb-Optimal/Business/gemini-3-pro-image-preview",
@@ -551,6 +572,12 @@
   },
   {
     "model": "inclusionAI/Ring-flash-2.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-5",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -3453,6 +3480,13 @@
   },
   {
     "model": "gemini-2.5-pro-high-search",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2
+  },
+  {
+    "model": "gemini-2.5-pro-latest",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
