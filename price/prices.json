@@ -668,6 +668,12 @@
     "input": 0.15
   },
   {
+    "model": "*-nano",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "2zai",
     "type": "times",
     "channel_type": 1,
@@ -1495,6 +1501,18 @@
     "input": 0.15
   },
   {
+    "model": "claude-2.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-2.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "claude-3-5-haiku-20241022",
     "type": "tokens",
     "channel_type": 1,
@@ -1714,6 +1732,12 @@
     "input": 8
   },
   {
+    "model": "claude-4.6-opus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "claude-haiku-*",
     "type": "times",
     "channel_type": 1,
@@ -1752,6 +1776,12 @@
     "channel_type": 1,
     "input": 37.5,
     "output": 3.5
+  },
+  {
+    "model": "claude-instant-1.2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
   },
   {
     "model": "claude-opus-4",
@@ -1837,6 +1867,13 @@
     "output": 3.5
   },
   {
+    "model": "claude-opus-4-5-thinking-proxy",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
     "model": "claude-opus-4-6",
     "type": "tokens",
     "channel_type": 1,
@@ -1852,6 +1889,13 @@
   },
   {
     "model": "claude-opus-4-6-20260205",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-opus-4-6-20260205-thinking",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -1951,6 +1995,13 @@
   },
   {
     "model": "claude-sonnet-4-5-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-sonnet-4-5-thinking-proxy",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -3738,6 +3789,13 @@
     "output": 1.5
   },
   {
+    "model": "gemini-3-flash-preview-proxy",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1.5
+  },
+  {
     "model": "gemini-3-flash-preview-search",
     "type": "tokens",
     "channel_type": 1,
@@ -3760,6 +3818,13 @@
   },
   {
     "model": "gemini-3-pro-high",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-high-proxy",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -3935,6 +4000,13 @@
   },
   {
     "model": "gemini-3-pro-low",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-low-proxy",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -4763,6 +4835,27 @@
     "output": 2.5
   },
   {
+    "model": "gpt-5*",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-1-instant",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5-1-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
     "model": "gpt-5-2025-08-07",
     "type": "tokens",
     "channel_type": 1,
@@ -5331,6 +5424,13 @@
   },
   {
     "model": "gpt-5.3-codex",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.3-codex-2cx",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -5916,6 +6016,12 @@
   },
   {
     "model": "kimi-k2-250905",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2-5",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
