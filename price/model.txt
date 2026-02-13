@@ -1,106 +1,4 @@
- ByteDance-Seed/Seed-OSS-36B-Instruct
- FunAudioLLM/CosyVoice2-0.5B
- Gemini 3 Flash
- IndexTeam/IndexTTS-2
- MiniMaxAI/MiniMax-M1-80k
- MiniMaxAI/MiniMax-M2
- Qwen/QwQ-32B
- Qwen/Qwen-Image
- Qwen/Qwen-Image-Edit
- Qwen/Qwen-Image-Edit-2509
- Qwen/Qwen2-VL-72B-Instruct
- Qwen/Qwen2.5-14B-Instruct
- Qwen/Qwen2.5-32B-Instruct
- Qwen/Qwen2.5-72B-Instruct
- Qwen/Qwen2.5-72B-Instruct-128K
- Qwen/Qwen2.5-Coder-32B-Instruct
- Qwen/Qwen2.5-VL-32B-Instruct
- Qwen/Qwen2.5-VL-72B-Instruct
- Qwen/Qwen3-14B
- Qwen/Qwen3-235B-A22B
- Qwen/Qwen3-30B-A3B
- Qwen/Qwen3-32B
- Qwen/Qwen3-Embedding-0.6B
- Qwen/Qwen3-Embedding-4B
- Qwen/Qwen3-Next-80B-A3B-Instruct
- Qwen/Qwen3-Next-80B-A3B-Thinking
- Qwen/Qwen3-Omni-30B-A3B-Captioner
- Qwen/Qwen3-Omni-30B-A3B-Instruct
- Qwen/Qwen3-Omni-30B-A3B-Thinking
- Qwen/Qwen3-Reranker-0.6B
- Qwen/Qwen3-Reranker-4B
- Qwen/Qwen3-Reranker-8B
- Qwen/Qwen3-VL-235B-A22B-Instruct
- Qwen/Qwen3-VL-235B-A22B-Thinking
- Qwen/Qwen3-VL-30B-A3B-Instruct
- Qwen/Qwen3-VL-30B-A3B-Thinking
- Qwen/Qwen3-VL-32B-Instruct
- THUDM/GLM-4-32B-0414
- THUDM/GLM-4.1V-9B-Thinking
- THUDM/GLM-Z1-32B-0414
- THUDM/GLM-Z1-Rumination-32B-0414
- TeleAI/TeleSpeechASR
- Tongyi-Zhiwen/QwenLong-L1-32B
- ascend-tribe/pangu-pro-moe
- baai/bge-m3
- baidu/ERNIE-4.5-300B-A47B
- black-forest-labs/FLUX.1-Kontext-dev
- black-forest-labs/FLUX.1-dev
- black-forest-labs/FLUX.1-schnell
- bytedance/seed-oss-36b-instruct
- claude-opus-4-6
- claude-opus-4.5-think
- claude-opus-4.6
- claude-opus-4.6-think
- code-davinci-edit-001
- deepseek-ai/DeepSeek-OCR
- deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
- deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
- deepseek-ai/DeepSeek-V2.5
- gemini-1.5-flash-002
- gemini-1.5-pro
- gemini-1.5-pro-002
- gemini-2.5-flash-native-audio-preview-09-2025
- gemini-2.5-flash-preview-04-17-thinking
- gemini-fast
- glm-4
- google/gemma-3-1b-it
- google/gemma-3-27b-it
- hyb-Optimal/Business/gemini-3-pro-image-preview
- hyb-Optimal/DeepSeek-R1
- hyb-Optimal/DeepSeek-V3
- hyb-Optimal/DeepSeek-V3.1-Terminus
- hyb-Optimal/gemini-2.5-flash
- hyb-Optimal/gemini-2.5-pro
- hyb-Optimal/gemini-3-flash-preview
- hyb-Optimal/gemini-3-pro-image-preview
- hyb-Optimal/gemini-3-pro-preview
- hyb-Optimal/gemini-3-pro-preview-search
- hyb-Optimal/gemini抗截断系列/gemini-2.5-flash
- hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-maxthinking
- hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-nothinking
- hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-search
- hyb-Optimal/gemini抗截断系列/gemini-2.5-pro
- hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-maxthinking
- hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-nothinking
- hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-search
- inclusionAI/Ling-flash-2.0
- inclusionAI/Ling-mini-2.0
- inclusionAI/Ring-flash-2.0
- meta-llama/Meta-Llama-3.1-8B-Instruct
- meta/llama-3.1-405b-instruct
- moonshotai/Kimi-Dev-72B
- openai/gpt-4.1-mini
- openai/gpt-4.1-nano
- openai/gpt-4o-mini
- openai/gpt-5-nano
- qwen-image-edit-2509
- stepfun-ai/step-3.5-flash
- stepfun-ai/step3
- tencent/Hunyuan-A13B-Instruct
- tencent/Hunyuan-MT-7B
- veo-3.1-fast-generate-preview
- veo-3.1-generate-preview
+*-nano
 2zai
 ALLaM-7B-Instruct-preview
 BAAI/bge-large-en-v1.5
@@ -113,6 +11,7 @@ Business/gemini-2.5-flash
 Business/gemini-2.5-pro
 Business/gemini-3-pro-preview
 Business/gemini-auto
+ByteDance-Seed/Seed-OSS-36B-Instruct
 Creative
 DeepSeek-Prover-V2
 DeepSeek-R1
@@ -127,6 +26,7 @@ DeepSeek-V3.2
 DeepSeek-V3.2-Exp
 DeepSeek-V3.2-thinking
 E5-Mistral-7B-Instruct
+FunAudioLLM/CosyVoice2-0.5B
 FunAudioLLM/SenseVoiceSmall
 GLM-4.5
 GLM-4.5-Air
@@ -141,10 +41,14 @@ GLM-4.7
 GLM-4.7-search
 GLM-4.7-thinking
 GLM-4.7-thinking-search
+GLM-5
+GLM-Z1-FlashX
 Gemini 3 Flash
+Gemini3Flash
 I2V-01
 I2V-01-Director
 I2V-01-live
+IndexTeam/IndexTTS-2
 Kimi-K2
 Kimi-K2-Instruct
 Kimi-K2-Thinking
@@ -163,21 +67,54 @@ MiniMax-Hailuo-2.3-Fast
 MiniMax-M2
 MiniMax-M2.1
 MiniMax/MiniMax-M2.1
+MiniMaxAI/MiniMax-M1-80k
+MiniMaxAI/MiniMax-M2
 Phi-4
 Precise
 Qwen/QVQ-72B-Preview
+Qwen/QwQ-32B
+Qwen/Qwen-Image
+Qwen/Qwen-Image-Edit
+Qwen/Qwen-Image-Edit-2509
 Qwen/Qwen2-7B-Instruct
+Qwen/Qwen2-VL-72B-Instruct
+Qwen/Qwen2.5-14B-Instruct
+Qwen/Qwen2.5-32B-Instruct
+Qwen/Qwen2.5-72B-Instruct
+Qwen/Qwen2.5-72B-Instruct-128K
 Qwen/Qwen2.5-7B-Instruct
+Qwen/Qwen2.5-Coder-32B-Instruct
 Qwen/Qwen2.5-Coder-7B-Instruct
+Qwen/Qwen2.5-VL-32B-Instruct
+Qwen/Qwen2.5-VL-72B-Instruct
+Qwen/Qwen3-14B
+Qwen/Qwen3-235B-A22B
 Qwen/Qwen3-235B-A22B-Instruct-2507
 Qwen/Qwen3-235B-A22B-Thinking-2507
+Qwen/Qwen3-30B-A3B
 Qwen/Qwen3-30B-A3B-Instruct-2507
 Qwen/Qwen3-30B-A3B-Thinking-2507
+Qwen/Qwen3-32B
 Qwen/Qwen3-8B
 Qwen/Qwen3-Coder-30B-A3B-Instruct
 Qwen/Qwen3-Coder-480B-A35B-Instruct
 Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo
+Qwen/Qwen3-Embedding-0.6B
+Qwen/Qwen3-Embedding-4B
 Qwen/Qwen3-Embedding-8B
+Qwen/Qwen3-Next-80B-A3B-Instruct
+Qwen/Qwen3-Next-80B-A3B-Thinking
+Qwen/Qwen3-Omni-30B-A3B-Captioner
+Qwen/Qwen3-Omni-30B-A3B-Instruct
+Qwen/Qwen3-Omni-30B-A3B-Thinking
+Qwen/Qwen3-Reranker-0.6B
+Qwen/Qwen3-Reranker-4B
+Qwen/Qwen3-Reranker-8B
+Qwen/Qwen3-VL-235B-A22B-Instruct
+Qwen/Qwen3-VL-235B-A22B-Thinking
+Qwen/Qwen3-VL-30B-A3B-Instruct
+Qwen/Qwen3-VL-30B-A3B-Thinking
+Qwen/Qwen3-VL-32B-Instruct
 Qwen/Qwen3-VL-32B-Thinking
 Qwen/Qwen3-VL-8B-Thinking
 Qwen3-235B
@@ -188,9 +125,15 @@ Qwen3-Coder
 S2V-01
 T2V-01
 T2V-01-Director
+THUDM/GLM-4-32B-0414
 THUDM/GLM-4-9B-0414
+THUDM/GLM-4.1V-9B-Thinking
+THUDM/GLM-Z1-32B-0414
 THUDM/GLM-Z1-9B-0414
+THUDM/GLM-Z1-Rumination-32B-0414
 THUDM/glm-4-9b-chat
+TeleAI/TeleSpeechASR
+Tongyi-Zhiwen/QwenLong-L1-32B
 Translation
 Whisper-Large-v3
 XiaomiMiMo/MiMo-V2-Flash
@@ -204,9 +147,12 @@ animate-anyone-detect-gen2
 animate-anyone-gen2
 animate-anyone-template-gen2
 anthropic/claude-sonnet-4-5-20250929
+ascend-tribe/pangu-pro-moe
 avatar-generate
 avatar-voice
+baai/bge-m3
 babbage-002
+baidu/ERNIE-4.5-300B-A47B
 bailu-2.6
 bfl/flux-2-flex
 bfl/flux-2-max
@@ -219,6 +165,9 @@ bfl/flux-pro-1.1
 bfl/flux-pro-1.1-ultra
 bge-m3
 bidara
+black-forest-labs/FLUX.1-Kontext-dev
+black-forest-labs/FLUX.1-dev
+black-forest-labs/FLUX.1-schnell
 black-forest-labs/flux-1.1-pro
 black-forest-labs/flux-1.1-pro-ultra
 black-forest-labs/flux-dev
@@ -230,6 +179,8 @@ black-forest-labs/flux-kontext-pro
 black-forest-labs/flux-krea-dev
 black-forest-labs/flux-pro
 black-forest-labs/flux-schnell
+bytedance/seed-oss-36b-instruct
+cerebras/zai-glm-4.7
 chat_fast_imagine
 chat_fast_video
 chat_relax_imagine
@@ -238,6 +189,8 @@ chirp-v2-xxl-alpha
 chirp-v3-0
 cjwbw/rembg
 claude-1.3-100k
+claude-2.0
+claude-2.1
 claude-3-5-haiku-20241022
 claude-3-5-haiku-latest
 claude-3-5-sonnet
@@ -246,6 +199,7 @@ claude-3-5-sonnet-20240620
 claude-3-5-sonnet-20241022
 claude-3-5-sonnet-all
 claude-3-5-sonnet-latest
+claude-3-7-sonnet
 claude-3-7-sonnet-20250219
 claude-3-7-sonnet-20250219-thinking
 claude-3-7-sonnet-latest
@@ -271,12 +225,14 @@ claude-4.5-sonnet-2cc
 claude-4.5-sonnet-docs
 claude-4.5-sonnet-real
 claude-4.5-sonnet-think
+claude-4.6-opus
 claude-haiku-*
 claude-haiku-4
 claude-haiku-4-5
 claude-haiku-4-5-20251001
 claude-haiku-4-5-20251001-thinking
 claude-haiku-4.5
+claude-instant-1.2
 claude-opus-4
 claude-opus-4-*
 claude-opus-4-0
@@ -286,13 +242,17 @@ claude-opus-4-1-20250805-thinking
 claude-opus-4-20250514
 claude-opus-4-20250514-thinking
 claude-opus-4-5
+claude-opus-4-5*
 claude-opus-4-5-20251101
 claude-opus-4-5-20251101-thinking
 claude-opus-4-5-latest
 claude-opus-4-5-thinking
+claude-opus-4-5-thinking-proxy
 claude-opus-4-6
+claude-opus-4-6*
 claude-opus-4-6-20260201
 claude-opus-4-6-20260205
+claude-opus-4-6-20260205-thinking
 claude-opus-4-6-thinking
 claude-opus-4-latest
 claude-opus-4.5
@@ -308,12 +268,15 @@ claude-sonnet-4-5
 claude-sonnet-4-5-20250929
 claude-sonnet-4-5-20250929-thinking
 claude-sonnet-4-5-thinking
+claude-sonnet-4-5-thinking-proxy
 claude-sonnet-4-latest
 claude-sonnet-4-think
 claude-sonnet-4.5
 claude-sonnet-4.5 [渠道id:33][輸出3k上限]
 claude-sonnet-4.5-think
+claude-sonnet-4.5[渠道id:33][輸出3k上限]
 claude-sonnet-5-20260203
+claudex-5.2-2cc
 code-davinci-edit-001
 code-llama-13b
 code-llama-34b
@@ -331,11 +294,15 @@ davinci-002
 deepl-en
 deepl-zh
 deepseek
+deepseek-ai/DeepSeek-OCR
 deepseek-ai/DeepSeek-R1
 deepseek-ai/DeepSeek-R1-0528
 deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
 deepseek-ai/DeepSeek-R1-0528-Turbo
+deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
 deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
+deepseek-ai/DeepSeek-V2.5
 deepseek-ai/DeepSeek-V3
 deepseek-ai/DeepSeek-V3-0324
 deepseek-ai/DeepSeek-V3-0324-Turbo
@@ -393,6 +360,7 @@ deepseek-v3.2-exp
 deepseek-v3.2-reasoner
 deepseek-v3.2-speciale
 deepseek-v3.2-thinking
+deepseek/deepseek-r1-0528:free
 devstral-2
 devstral-medium-2507
 devstral-small-2507
@@ -505,7 +473,9 @@ flux.1-dev
 flux.1.1-pro
 freepass-gpt-4.1
 gemini-1.5-flash
+gemini-1.5-flash-002
 gemini-1.5-pro
+gemini-1.5-pro-002
 gemini-2.0-flash
 gemini-2.0-flash-001
 gemini-2.0-flash-exp
@@ -521,8 +491,8 @@ gemini-2.0-flash-thinking-exp-1219
 gemini-2.0-pro-exp-02-05
 gemini-2.5-computer-use-preview-10-2025
 gemini-2.5-flash
-gemini-2.5-flash (with tools)
 gemini-2.5-flash [渠道id:33][輸出3k上限]
+gemini-2.5-flash(withtools)
 gemini-2.5-flash-high
 gemini-2.5-flash-high-search
 gemini-2.5-flash-image
@@ -541,21 +511,25 @@ gemini-2.5-flash-medium-search
 gemini-2.5-flash-minimal
 gemini-2.5-flash-minimal-search
 gemini-2.5-flash-monica
+gemini-2.5-flash-native-audio-preview-09-2025
 gemini-2.5-flash-nothinking
 gemini-2.5-flash-nothinking-search
 gemini-2.5-flash-preview-04-17
 gemini-2.5-flash-preview-04-17-nothinking
+gemini-2.5-flash-preview-04-17-thinking
 gemini-2.5-flash-preview-05-20
 gemini-2.5-flash-preview-05-20-nothinking
 gemini-2.5-flash-preview-09-2025
 gemini-2.5-flash-preview-tts
 gemini-2.5-flash-search
 gemini-2.5-flash-thinking
+gemini-2.5-flash[渠道id:33][輸出3k上限]
 gemini-2.5-pro
 gemini-2.5-pro-bs
 gemini-2.5-pro-exp-03-25
 gemini-2.5-pro-high
 gemini-2.5-pro-high-search
+gemini-2.5-pro-latest
 gemini-2.5-pro-low
 gemini-2.5-pro-low-search
 gemini-2.5-pro-max
@@ -591,10 +565,12 @@ gemini-3-flash-preview-minimal
 gemini-3-flash-preview-minimal-search
 gemini-3-flash-preview-nothinking
 gemini-3-flash-preview-nothinking-search
+gemini-3-flash-preview-proxy
 gemini-3-flash-preview-search
 gemini-3-flash-preview-thinking-*
 gemini-3-pro
 gemini-3-pro-high
+gemini-3-pro-high-proxy
 gemini-3-pro-image
 gemini-3-pro-image-16x9
 gemini-3-pro-image-1x1
@@ -620,6 +596,7 @@ gemini-3-pro-image-preview
 gemini-3-pro-image-preview-2k
 gemini-3-pro-image-preview-4k
 gemini-3-pro-low
+gemini-3-pro-low-proxy
 gemini-3-pro-preview
 gemini-3-pro-preview-bs
 gemini-3-pro-preview-high
@@ -653,8 +630,10 @@ gemma-3-27b-it
 gemma-3-4b-it
 gemma2-9b-it
 glm-3-turbo
+glm-4
 glm-4-32b
 glm-4-flashx-250414
+glm-4-long
 glm-4.5
 glm-4.5-air
 glm-4.5-air-search
@@ -680,9 +659,14 @@ glm-4.7-flash
 glm-4.7-flashx
 glm-4.7-free
 glm-4v
+glm-5
+glm-5-search
+glm-5-thinking
 glm-image
 glm-z1-flash
 google-palm
+google/gemma-3-1b-it
+google/gemma-3-27b-it
 google/imagen-4
 google/imagen-4-fast
 google/imagen-4-ultra
@@ -754,6 +738,9 @@ gpt-4o-search-preview-2025-03-11
 gpt-4o-study
 gpt-4o-transcribe
 gpt-5
+gpt-5*
+gpt-5-1-instant
+gpt-5-1-thinking
 gpt-5-2025-08-07
 gpt-5-all
 gpt-5-chat
@@ -762,7 +749,9 @@ gpt-5-chat-latest
 gpt-5-codex
 gpt-5-codex-high
 gpt-5-codex-low
+gpt-5-codex-low-low
 gpt-5-codex-medium
+gpt-5-codex-medium-medium
 gpt-5-codex-mini
 gpt-5-codex-mini-high
 gpt-5-codex-mini-medium
@@ -780,6 +769,7 @@ gpt-5-minimal
 gpt-5-nano
 gpt-5-nano [渠道id:33][輸出3k上限]
 gpt-5-nano-2025-08-07
+gpt-5-nano[渠道id:33][輸出3k上限]
 gpt-5-pro
 gpt-5-pro-2025-10-06
 gpt-5-pro-high
@@ -808,6 +798,7 @@ gpt-5.1-codex-mini-2cx
 gpt-5.1-codex-mini-high
 gpt-5.1-codex-mini-medium
 gpt-5.1-high
+gpt-5.1-latest
 gpt-5.1-low
 gpt-5.1-medium
 gpt-5.1-minimal
@@ -828,6 +819,7 @@ gpt-5.2-codex-low
 gpt-5.2-codex-medium
 gpt-5.2-codex-xhigh
 gpt-5.2-high
+gpt-5.2-latest
 gpt-5.2-low
 gpt-5.2-medium
 gpt-5.2-pro
@@ -836,9 +828,15 @@ gpt-5.2-thinking
 gpt-5.2-xhigh
 gpt-5.3
 gpt-5.3-codex
+gpt-5.3-codex-2cx
 gpt-5.3-codex-high
 gpt-5.3-codex-low
 gpt-5.3-codex-medium
+gpt-5.3-codex-spark-high
+gpt-5.3-codex-spark-low
+gpt-5.3-codex-spark-medium
+gpt-5.3-codex-spark-xhigh
+gpt-5.3-codex-xhigh
 gpt-audio
 gpt-audio-2025-08-28
 gpt-audio-mini
@@ -878,6 +876,7 @@ grok-4-0709
 grok-4-0709-search
 grok-4-1-fast-non-reasoning
 grok-4-1-fast-reasoning
+grok-4-1-thinking-1129
 grok-4-expert
 grok-4-fast
 grok-4-fast-expert
@@ -885,6 +884,7 @@ grok-4-fast-non-reasoning
 grok-4-fast-reasoning
 grok-4-heavy
 grok-4-mini
+grok-4-thinking
 grok-4.1
 grok-4.1-expert
 grok-4.1-fast
@@ -909,6 +909,24 @@ higgsfield-speech
 higgsfield-standard
 higgsfield-turbo
 hunyuan-t1
+hyb-Optimal/Business/gemini-3-pro-image-preview
+hyb-Optimal/DeepSeek-R1
+hyb-Optimal/DeepSeek-V3
+hyb-Optimal/DeepSeek-V3.1-Terminus
+hyb-Optimal/gemini-2.5-flash
+hyb-Optimal/gemini-2.5-pro
+hyb-Optimal/gemini-3-flash-preview
+hyb-Optimal/gemini-3-pro-image-preview
+hyb-Optimal/gemini-3-pro-preview
+hyb-Optimal/gemini-3-pro-preview-search
+hyb-Optimal/gemini抗截断系列/gemini-2.5-flash
+hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-maxthinking
+hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-nothinking
+hyb-Optimal/gemini抗截断系列/gemini-2.5-flash-search
+hyb-Optimal/gemini抗截断系列/gemini-2.5-pro
+hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-maxthinking
+hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-nothinking
+hyb-Optimal/gemini抗截断系列/gemini-2.5-pro-search
 hypnosis-tracy
 ideogram-ai/ideogram-v2-turbo
 ideogram-edit-v3
@@ -917,6 +935,9 @@ ideogram-reframe-v3
 ideogram-remix-v3
 ideogram-replace-background-v3
 iflow-rome-30ba3b
+inclusionAI/Ling-flash-2.0
+inclusionAI/Ling-mini-2.0
+inclusionAI/Ring-flash-2.0
 intellect-3
 internal-background-task
 internlm/internlm2_5-7b-chat
@@ -930,12 +951,14 @@ kimi-k2-0711-preview
 kimi-k2-0905
 kimi-k2-0905-turbo
 kimi-k2-250905
+kimi-k2-5
 kimi-k2-eco
 kimi-k2-fast
 kimi-k2-instruct
 kimi-k2-instruct-0905
 kimi-k2-thinking
 kimi-k2-thinking-turbo
+kimi-k2-turbo
 kimi-k2.5
 kimi-k2.5-instant
 kling-advanced-lip-sync
@@ -1026,6 +1049,8 @@ magistral-small-2509
 mercury
 mercury-coder
 meta-llama/Llama-4-Maverick-17B-128E-Instruct-Turbo
+meta-llama/Meta-Llama-3.1-8B-Instruct
+meta/llama-3.1-405b-instruct
 midgen-flux
 midgen-turbo
 midgen-v1
@@ -1039,6 +1064,8 @@ minimax-m2
 minimax-m2-her
 minimax-m2.1
 minimax-m2.1-canopy
+minimax-voice-clone
+minimax-voice-design
 minimax/speech-01-hd
 minimax/speech-01-turbo
 minimax/speech-02-hd
@@ -1090,6 +1117,7 @@ mj_fast_video
 mj_fast_zoom
 mj_relax_blend
 mj_relax_custom_zoom
+mj_relax_describe
 mj_relax_edits
 mj_relax_high_variation
 mj_relax_imagine
@@ -1112,6 +1140,7 @@ mj_relax_zoom
 moonshot-v1-128k
 moonshot-v1-32k
 moonshot-v1-8k
+moonshotai/Kimi-Dev-72B
 moonshotai/Kimi-K2-Instruct
 moonshotai/Kimi-K2-Instruct-0905
 moonshotai/kimi-k2-instruct
@@ -1191,6 +1220,10 @@ openai-fast
 openai-large
 openai-reasoning
 openai-roblox
+openai/gpt-4.1-mini
+openai/gpt-4.1-nano
+openai/gpt-4o-mini
+openai/gpt-5-nano
 openai/gpt-oss-120b
 openai/gpt-oss-20b
 phi
@@ -1227,6 +1260,7 @@ qwen-coder-turbo-latest
 qwen-flash
 qwen-image
 qwen-image-edit
+qwen-image-edit-2509
 qwen-image-edit-max
 qwen-image-edit-max-2026-01-16
 qwen-image-edit-plus
@@ -1293,6 +1327,7 @@ qwen2-1.5b-instruct
 qwen2-57b-a14b-instruct
 qwen2-72b-instruct
 qwen2-7b-instruct
+qwen2-vl-72b-instruct
 qwen2-vl-7b-instruct
 qwen2.5-14b-instruct
 qwen2.5-14b-instruct-1m
@@ -1310,6 +1345,7 @@ qwen2.5-vl-32b-instruct
 qwen2.5-vl-3b-instruct
 qwen2.5-vl-72b-instruct
 qwen2.5-vl-7b-instruct
+qwen3
 qwen3-0.6b
 qwen3-1.7b
 qwen3-14b
@@ -1347,6 +1383,14 @@ qwen3-reranker-0.6b
 qwen3-reranker-4b
 qwen3-reranker-8b
 qwen3-vl-235b-a22b
+qwen3-vl-235b-a22b-instruct
+qwen3-vl-235b-a22b-thinking
+qwen3-vl-30b-a3b-instruct
+qwen3-vl-30b-a3b-thinking
+qwen3-vl-32b-instruct
+qwen3-vl-32b-thinking
+qwen3-vl-8b-instruct
+qwen3-vl-8b-thinking
 qwen3-vl-flash
 qwen3-vl-flash-2025-10-15
 qwen3-vl-flash-2026-01-22
@@ -1424,6 +1468,8 @@ stability-ai/stable-diffusion-inpainting
 stable-diffusion
 stable-diffusion-3-2b
 step-3.5-flash
+stepfun-ai/step-3.5-flash
+stepfun-ai/step3
 stok-0.4.1
 sujaykhandekar/object-removal
 suno-act-midi
@@ -1437,6 +1483,8 @@ suno_upload
 sur
 swap_face
 tab_flash_lite_preview
+tencent/Hunyuan-A13B-Instruct
+tencent/Hunyuan-MT-7B
 text-ada-001
 text-babbage-001
 text-curie-001
@@ -1447,6 +1495,8 @@ text-embedding-ada-002
 text-moderation-latest
 text-moderation-stable
 text-search-ada-doc-001
+tngtech/deepseek-r1t-chimera:free
+tngtech/deepseek-r1t2-chimera:free
 tokyotech-llm/llama-3-swallow-70b-instruct-v0.1
 tstars2.0
 tts-1
@@ -1457,6 +1507,8 @@ unity
 v0-1.0-md
 v0-1.5-lg
 v0-1.5-md
+veo-3.1-fast-generate-preview
+veo-3.1-generate-preview
 veo2
 veo2-fast
 veo2-fast-components
@@ -1519,6 +1571,7 @@ wanx2.1-t2v-turbo
 wanx2.1-vace-plus
 whisper-1
 wizardlm-2-8x22b
+z-ai/glm-4.5-air:free
 z-ai/glm4.7
 z-image-turbo
 zai-glm-4.6
