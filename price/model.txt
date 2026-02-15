@@ -180,6 +180,10 @@ black-forest-labs/flux-krea-dev
 black-forest-labs/flux-pro
 black-forest-labs/flux-schnell
 bytedance/seed-oss-36b-instruct
+cerebras-gpt-oss-120b
+cerebras-llama-3.1-8b
+cerebras-llama-3.3-70b
+cerebras-qwen-3-32b
 cerebras/zai-glm-4.7
 chat_fast_imagine
 chat_fast_video
@@ -226,6 +230,7 @@ claude-4.5-sonnet-docs
 claude-4.5-sonnet-real
 claude-4.5-sonnet-think
 claude-4.6-opus
+claude-5-sonnet
 claude-haiku-*
 claude-haiku-4
 claude-haiku-4-5
@@ -284,6 +289,7 @@ code-llama-7b
 code-supernova-1-million
 codestral-2508
 codex-mini
+cogito-2.1:671b
 command-a
 command-r-08-2024
 command-r-plus
@@ -322,6 +328,7 @@ deepseek-ai/deepseek-vl2
 deepseek-chat
 deepseek-chat-v3-0324
 deepseek-chat-v3.1
+deepseek-coder
 deepseek-coder-v2-instruct
 deepseek-llm-67b-chat
 deepseek-ocr
@@ -331,8 +338,10 @@ deepseek-r1-0528-turbo
 deepseek-r1-250528
 deepseek-r1-distill-llama-70b
 deepseek-r1-distill-qwen-32b
+deepseek-r1-fold
 deepseek-r1-metasearch
 deepseek-r1-search
+deepseek-r1-silent
 deepseek-r1:1.5b
 deepseek-r1:70b
 deepseek-r1:8b
@@ -341,6 +350,10 @@ deepseek-reasoner-164k
 deepseek-reasoner-all
 deepseek-reasoning
 deepseek-search
+deepseek-search-silent
+deepseek-think
+deepseek-think-fold
+deepseek-think-search
 deepseek-v3
 deepseek-v3-0324
 deepseek-v3-0324-turbo
@@ -514,6 +527,7 @@ gemini-2.5-flash-monica
 gemini-2.5-flash-native-audio-preview-09-2025
 gemini-2.5-flash-nothinking
 gemini-2.5-flash-nothinking-search
+gemini-2.5-flash-preview
 gemini-2.5-flash-preview-04-17
 gemini-2.5-flash-preview-04-17-nothinking
 gemini-2.5-flash-preview-04-17-thinking
@@ -665,6 +679,7 @@ glm-5-thinking
 glm-image
 glm-z1-flash
 google-palm
+google/gemma-3-12b-it
 google/gemma-3-1b-it
 google/gemma-3-27b-it
 google/imagen-4
@@ -832,6 +847,7 @@ gpt-5.3-codex-2cx
 gpt-5.3-codex-high
 gpt-5.3-codex-low
 gpt-5.3-codex-medium
+gpt-5.3-codex-spark
 gpt-5.3-codex-spark-high
 gpt-5.3-codex-spark-low
 gpt-5.3-codex-spark-medium
@@ -848,6 +864,7 @@ gpt-oss-120b
 gpt-oss-120b-medium
 gpt-oss-20b
 gpt-oss-safeguard-120b
+gpt-oss:120b
 gpt-video-2
 gpt-video-2-pro
 grok
@@ -898,6 +915,9 @@ grok-imagine-1.0-video
 grok-video-3
 grok-vision-beta
 grok4.1-thinking
+groq-gpt-oss
+groq-llama-3.1-8b
+groq-llama-3.3-70b
 gumloop-agent
 gummies_fastest
 gummies_recommended
@@ -1048,7 +1068,9 @@ magistral-medium-2509
 magistral-small-2509
 mercury
 mercury-coder
+meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8
 meta-llama/Llama-4-Maverick-17B-128E-Instruct-Turbo
+meta-llama/Llama-4-Scout-17B-16E-Instruct
 meta-llama/Meta-Llama-3.1-8B-Instruct
 meta/llama-3.1-405b-instruct
 midgen-flux
@@ -1064,6 +1086,7 @@ minimax-m2
 minimax-m2-her
 minimax-m2.1
 minimax-m2.1-canopy
+minimax-m2.5
 minimax-voice-clone
 minimax-voice-design
 minimax/speech-01-hd
@@ -1410,6 +1433,12 @@ riffusion-music
 riffusion-upload
 riffusion/riffusion
 ring-1t
+routeway-deepseek-r1
+routeway-deepseek-r1-0528
+routeway-glm-4.5
+routeway-kimi-k2
+routeway-llama-3.2-3b
+routeway-minimax-m2
 rtist
 runway-act_one
 runway-act_two
@@ -1575,7 +1604,9 @@ z-ai/glm-4.5-air:free
 z-ai/glm4.7
 z-image-turbo
 zai-glm-4.6
+zai-glm-4.6v-flash
 zai-glm-4.7
+zai-glm-4.7-flash
 zai-org/GLM-4.5
 zai-org/GLM-4.5-Air
 zai-org/GLM-4.5V
