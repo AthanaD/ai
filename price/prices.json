@@ -1594,6 +1594,13 @@
     "output": 4
   },
   {
+    "model": "claude-opus-4-6-1m",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
     "model": "claude-opus-4-6-20260201",
     "type": "tokens",
     "channel_type": 1,
@@ -2518,6 +2525,18 @@
     "input": 0.15
   },
   {
+    "model": "doubao-seedance-2-0_480p",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "doubao-seedance-2-0_720p",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "doubao-seededit-3-0-i2i-250628",
     "type": "times",
     "channel_type": 1,
@@ -3102,13 +3121,6 @@
   },
   {
     "model": "gemini-2.5-flash",
-    "type": "tokens",
-    "channel_type": 1,
-    "input": 37.5,
-    "output": 1.5
-  },
-  {
-    "model": "gemini-2.5-flash (with tools)",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -4091,6 +4103,12 @@
     "input": 0.15
   },
   {
+    "model": "glm-4-flash-250414",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "glm-4-flashx-250414",
     "type": "times",
     "channel_type": 1,
@@ -4200,6 +4218,12 @@
   },
   {
     "model": "glm-4.6v",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4.6v-flash",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -5287,6 +5311,13 @@
     "output": 2.5
   },
   {
+    "model": "gpt-5.2-codex-openai-compact",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
     "model": "gpt-5.2-codex-xhigh",
     "type": "tokens",
     "channel_type": 1,
@@ -5316,6 +5347,13 @@
   },
   {
     "model": "gpt-5.2-medium",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gpt-5.2-openai-compact",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -5456,6 +5494,13 @@
     "type": "times",
     "channel_type": 1,
     "input": 0.15
+  },
+  {
+    "model": "gpt-claude-opus-4.6",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
   },
   {
     "model": "gpt-image-1",
@@ -5644,6 +5689,12 @@
     "input": 0.15
   },
   {
+    "model": "grok-3-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "grok-4",
     "type": "tokens",
     "channel_type": 1,
@@ -5796,6 +5847,12 @@
   },
   {
     "model": "grok-imagine-1.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "grok-imagine-1.0-edit",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -9984,6 +10041,12 @@
   },
   {
     "model": "z-ai/glm4.7",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "z-ai/glm5",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
