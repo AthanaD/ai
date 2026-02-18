@@ -6,6 +6,12 @@
     "input": 0.15
   },
   {
+    "model": "01-ai/yi-large",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "2zai",
     "type": "times",
     "channel_type": 1,
@@ -862,7 +868,31 @@
     "input": 0.15
   },
   {
+    "model": "abacusai/dracarys-llama-3.1-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "adept/fuyu-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "advanced-voice",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ai21labs/jamba-1.5-large-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ai21labs/jamba-1.5-mini-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -875,6 +905,12 @@
   },
   {
     "model": "aion-1.0-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "aisingapore/sea-lion-7b-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -936,6 +972,12 @@
   },
   {
     "model": "babbage-002",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "baichuan-inc/baichuan2-13b-chat",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -1014,6 +1056,24 @@
   },
   {
     "model": "bidara",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "big-pickle",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bigcode/starcoder2-15b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "bigcode/starcoder2-7b",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -1197,6 +1257,13 @@
     "type": "times",
     "channel_type": 1,
     "input": 0.15
+  },
+  {
+    "model": "claude-3-5-haiku",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
   },
   {
     "model": "claude-3-5-haiku-20241022",
@@ -1426,6 +1493,24 @@
   },
   {
     "model": "claude-4.6-opus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-4.6-sonnet",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-4.6-sonnet-2cc",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "claude-4.6-sonnet-real",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -1728,6 +1813,34 @@
     "output": 3.5
   },
   {
+    "model": "claude-sonnet-4-6",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-sonnet-4-6-20260217",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-sonnet-4-6-20260217-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-sonnet-4-6-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
     "model": "claude-sonnet-4-latest",
     "type": "times",
     "channel_type": 1,
@@ -1766,6 +1879,13 @@
     "channel_type": 1,
     "input": 37.5,
     "output": 3.5
+  },
+  {
+    "model": "claude-sonnet-4.6",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
   },
   {
     "model": "claude-sonnet-5-20260203",
@@ -1860,6 +1980,12 @@
   },
   {
     "model": "dall-e-3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "databricks/dbrx-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -2010,6 +2136,24 @@
   },
   {
     "model": "deepseek-ai/deepseek-r1-distill-llama-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-r1-distill-qwen-14b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-r1-distill-qwen-32b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-ai/deepseek-r1-distill-qwen-7b",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -3127,14 +3271,14 @@
     "output": 1.5
   },
   {
-    "model": "gemini-2.5-flash [渠道id:33][輸出3k上限]",
+    "model": "gemini-2.5-flash (withtools)",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
     "output": 1.5
   },
   {
-    "model": "gemini-2.5-flash(withtools)",
+    "model": "gemini-2.5-flash [渠道id:33][輸出3k上限]",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -3680,6 +3824,20 @@
     "output": 2.5
   },
   {
+    "model": "gemini-3-pro-canvas",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-deepsearch",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
     "model": "gemini-3-pro-high",
     "type": "tokens",
     "channel_type": 1,
@@ -3974,6 +4132,27 @@
     "output": 2.5
   },
   {
+    "model": "gemini-3-pro-storybook",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-pro-video",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "gemini-3-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
     "model": "gemini-auto",
     "type": "times",
     "channel_type": 1,
@@ -4074,6 +4253,12 @@
   },
   {
     "model": "gemma-3-4b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gemma-7b",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -4283,6 +4468,12 @@
     "input": 0.15
   },
   {
+    "model": "glm-5-free",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "glm-5-search",
     "type": "times",
     "channel_type": 1,
@@ -4313,6 +4504,48 @@
     "input": 0.15
   },
   {
+    "model": "google/codegemma-1.1-7b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/codegemma-7b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/deplot",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-2-27b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-2-2b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-2-9b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-2b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "google/gemma-3-12b-it",
     "type": "times",
     "channel_type": 1,
@@ -4331,6 +4564,30 @@
     "input": 0.15
   },
   {
+    "model": "google/gemma-3-4b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-3n-e2b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-3n-e4b-it",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/gemma-7b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "google/imagen-4",
     "type": "times",
     "channel_type": 1,
@@ -4344,6 +4601,30 @@
   },
   {
     "model": "google/imagen-4-ultra",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/paligemma",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/recurrentgemma-2b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "google/shieldgemma-9b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "gotocompany/gemma-2-9b-cpt-sahabatai-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -5828,6 +6109,13 @@
     "output": 1
   },
   {
+    "model": "grok-4.20-beta",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
+  },
+  {
     "model": "grok-beta",
     "type": "times",
     "channel_type": 1,
@@ -6095,6 +6383,42 @@
     "input": 0.15
   },
   {
+    "model": "ibm/granite-3.0-3b-a800m-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ibm/granite-3.0-8b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ibm/granite-3.3-8b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ibm/granite-34b-code-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ibm/granite-8b-code-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "ibm/granite-guardian-3.0-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "ideogram-ai/ideogram-v2-turbo",
     "type": "times",
     "channel_type": 1,
@@ -6137,6 +6461,18 @@
     "input": 0.15
   },
   {
+    "model": "igenius/colosseum_355b_instruct_16k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "igenius/italia_10b_instruct_16k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "inclusionAI/Ling-flash-2.0",
     "type": "times",
     "channel_type": 1,
@@ -6150,6 +6486,18 @@
   },
   {
     "model": "inclusionAI/Ring-flash-2.0",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "institute-of-science-tokyo/llama-3.1-swallow-70b-instruct-v0.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "institute-of-science-tokyo/llama-3.1-swallow-8b-instruct-v0.1",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -6282,6 +6630,12 @@
   },
   {
     "model": "kimi-k2.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "kimi-k2.5-free",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -6665,6 +7019,12 @@
     "input": 0.15
   },
   {
+    "model": "llama-3.2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "llama-3.2-11b-vision-instruct",
     "type": "times",
     "channel_type": 1,
@@ -6803,6 +7163,18 @@
     "input": 0.15
   },
   {
+    "model": "marin/marin-8b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mediatek/breeze-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "mercury",
     "type": "times",
     "channel_type": 1,
@@ -6839,7 +7211,175 @@
     "input": 0.15
   },
   {
+    "model": "meta/codellama-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "meta/llama-3.1-405b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-3.1-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-3.1-8b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-3.2-11b-vision-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-3.2-1b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-3.2-3b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-3.2-90b-vision-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-3.3-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-4-maverick-17b-128e-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-4-scout-17b-16e-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama-guard-4-12b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama2-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama3-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "meta/llama3-8b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/kosmos-2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3-medium-128k-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3-medium-4k-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3-mini-128k-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3-mini-4k-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3-small-128k-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3-small-8k-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3-vision-128k-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3.5-mini-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3.5-moe-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-3.5-vision-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-4-mini-flash-reasoning",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-4-mini-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "microsoft/phi-4-multimodal-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -6923,7 +7463,19 @@
     "input": 0.15
   },
   {
+    "model": "minimax-m2.1-free",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "minimax-m2.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "minimax-m2.5-free",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -7086,6 +7638,114 @@
   },
   {
     "model": "mistral-small-cloudflare",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/codestral-22b-instruct-v0.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/devstral-2-123b-instruct-2512",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/magistral-small-2506",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mamba-codestral-7b-v0.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mathstral-7b-v0.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/ministral-14b-instruct-2512",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-7b-instruct-v0.2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-7b-instruct-v0.3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-large",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-large-2-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-large-3-675b-instruct-2512",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-medium-3-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-nemotron",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-small-24b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mistral-small-3.1-24b-instruct-2503",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mixtral-8x22b-instruct-v0.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mixtral-8x22b-v0.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "mistralai/mixtral-8x7b-instruct-v0.1",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -7583,7 +8243,283 @@
     "input": 0.15
   },
   {
+    "model": "nv-mistralai/mistral-nemo-12b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/cosmos-reason2-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "nvidia/embed-qa-4",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemoguard-8b-content-safety",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemoguard-8b-topic-control",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-51b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-70b-reward",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-nano-4b-v1.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-nano-8b-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-nano-vl-8b-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-safety-guard-8b-v3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.1-nemotron-ultra-253b-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.2-nemoretriever-1b-vlm-embed-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.2-nemoretriever-300m-embed-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.2-nemoretriever-300m-embed-v2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.2-nv-embedqa-1b-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.2-nv-embedqa-1b-v2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama-nemotron-embed-vl-1b-v2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama3-chatqa-1.5-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/llama3-chatqa-1.5-8b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/mistral-nemo-minitron-8b-8k-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/mistral-nemo-minitron-8b-base",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemoretriever-parse",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-3-nano-30b-a3b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-4-340b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-4-340b-reward",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-4-mini-hindi-4b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-content-safety-reasoning-4b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-mini-4b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-nano-12b-v2-vl",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-nano-3-30b-a3b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nemotron-parse",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/neva-22b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nv-embed-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nv-embedcode-7b-v1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nv-embedqa-e5-v5",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nv-embedqa-mistral-7b-v2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nvclip",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/nvidia-nemotron-nano-9b-v2",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/riva-translate-4b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/riva-translate-4b-instruct-v1.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/streampetr",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/usdcode-llama-3.1-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "nvidia/vila",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -7923,6 +8859,12 @@
   },
   {
     "model": "openai/gpt-oss-20b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "opengpt-x/teuken-7b-instruct-commercial-v0.4",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -8456,6 +9398,36 @@
     "input": 0.15
   },
   {
+    "model": "qwen/qwen2-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwen2.5-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwen2.5-coder-32b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwen2.5-coder-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwen3-235b-a22b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "qwen/qwen3-coder-480b-a35b-instruct",
     "type": "times",
     "channel_type": 1,
@@ -8469,6 +9441,12 @@
   },
   {
     "model": "qwen/qwen3-next-80b-a3b-thinking",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen/qwen3.5-397b-a17b",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -8954,6 +9932,18 @@
     "input": 0.15
   },
   {
+    "model": "qwen3.5-397b-a17b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "qwen3.5-plus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "qwq-32b",
     "type": "times",
     "channel_type": 1,
@@ -8979,6 +9969,18 @@
   },
   {
     "model": "qwq-plus-latest",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "rakuten/rakutenai-7b-chat",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "rakuten/rakutenai-7b-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -9111,6 +10113,12 @@
   },
   {
     "model": "runwayml-gen4_turbo",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "sarvamai/sarvam-m",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -9338,6 +10346,18 @@
     "input": 0.15
   },
   {
+    "model": "speakleash/bielik-11b-v2.3-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "speakleash/bielik-11b-v2.6-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "speech-01-hd",
     "type": "times",
     "channel_type": 1,
@@ -9423,6 +10443,12 @@
   },
   {
     "model": "stepfun-ai/step3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "stockmark/stockmark-2-100b-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -9578,6 +10604,18 @@
     "input": 0.15
   },
   {
+    "model": "thudm/chatglm3-6b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "tiiuae/falcon3-7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "tngtech/deepseek-r1t-chimera:free",
     "type": "times",
     "channel_type": 1,
@@ -9591,6 +10629,12 @@
   },
   {
     "model": "tokyotech-llm/llama-3-swallow-70b-instruct-v0.1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "trinity-large-preview-free",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -9627,6 +10671,18 @@
   },
   {
     "model": "unity",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "upstage/solar-10.7b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "utter-project/eurollm-9b-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -10034,6 +11090,36 @@
     "input": 0.15
   },
   {
+    "model": "writer/palmyra-creative-122b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "writer/palmyra-fin-70b-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "writer/palmyra-med-70b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "writer/palmyra-med-70b-32k",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "yentinglin/llama-3-taiwan-70b-instruct",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "z-ai/glm-4.5-air:free",
     "type": "times",
     "channel_type": 1,
@@ -10119,6 +11205,12 @@
   },
   {
     "model": "zhipu/glm-4v-flash",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zyphra/zamba2-7b-instruct",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
