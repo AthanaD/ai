@@ -3271,7 +3271,7 @@
     "output": 1.5
   },
   {
-    "model": "gemini-2.5-flash (withtools)",
+    "model": "gemini-2.5-flash (with tools)",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
