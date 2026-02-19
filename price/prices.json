@@ -754,6 +754,12 @@
     "input": 0.15
   },
   {
+    "model": "Qwen3-235B-A22B-Thinking-2507",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "Qwen3-32B",
     "type": "times",
     "channel_type": 1,
@@ -761,6 +767,24 @@
   },
   {
     "model": "Qwen3-Coder",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen3-Embedding-0.6B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen3-Embedding-4B",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "Qwen3-Embedding-8B",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -1977,6 +2001,71 @@
     "type": "times",
     "channel_type": 1,
     "input": 0.15
+  },
+  {
+    "model": "cursor2-claude-4-sonnet",
+    "type": "times",
+    "channel_type": 1,
+    "input": 5
+  },
+  {
+    "model": "cursor2-claude-4.1-opus",
+    "type": "times",
+    "channel_type": 1,
+    "input": 5
+  },
+  {
+    "model": "cursor2-claude-4.5-sonnet",
+    "type": "times",
+    "channel_type": 1,
+    "input": 8
+  },
+  {
+    "model": "cursor2-gpt-5",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "cursor2-gpt-5-codex",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "cursor2-gpt-5-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "cursor2-gpt-5-nano",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
+    "model": "cursor2-grok-3",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "cursor2-grok-3-mini",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "cursor2-grok-4",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 1
   },
   {
     "model": "dall-e-3",
@@ -9944,6 +10033,12 @@
     "input": 0.15
   },
   {
+    "model": "qwen3.5-plus-2026-02-15",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "qwq-32b",
     "type": "times",
     "channel_type": 1,
@@ -10563,6 +10658,12 @@
   },
   {
     "model": "text-davinci-edit-001",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "text-embedding-004",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
