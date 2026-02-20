@@ -12,6 +12,24 @@
     "input": 0.15
   },
   {
+    "model": "0727-106B-API",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "0727-360B-API",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "0808-360B-DR",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "2zai",
     "type": "times",
     "channel_type": 1,
@@ -184,6 +202,24 @@
   },
   {
     "model": "FunAudioLLM/SenseVoiceSmall",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4-6-API-V1",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "GLM-4.1V-Thinking-FlashX",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -455,6 +491,12 @@
   },
   {
     "model": "Precise",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "QWEN",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -972,6 +1014,12 @@
   },
   {
     "model": "ascend-tribe/pangu-pro-moe",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "auto",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -1540,6 +1588,12 @@
     "input": 0.15
   },
   {
+    "model": "claude-4.6-sonnet-think",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "claude-5-sonnet",
     "type": "times",
     "channel_type": 1,
@@ -1566,6 +1620,13 @@
   },
   {
     "model": "claude-haiku-4-5-20251001",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
+    "model": "claude-haiku-4-5-20251001-agentic",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -1816,6 +1877,13 @@
     "output": 3.5
   },
   {
+    "model": "claude-sonnet-4-5-20250929-agentic",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 3.5
+  },
+  {
     "model": "claude-sonnet-4-5-20250929-thinking",
     "type": "tokens",
     "channel_type": 1,
@@ -1852,6 +1920,13 @@
   },
   {
     "model": "claude-sonnet-4-6-20260217-thinking",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 4
+  },
+  {
+    "model": "claude-sonnet-4-6-20260218",
     "type": "tokens",
     "channel_type": 1,
     "input": 37.5,
@@ -2086,6 +2161,12 @@
     "input": 0.15
   },
   {
+    "model": "deep-research",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "deepl-en",
     "type": "times",
     "channel_type": 1,
@@ -2278,6 +2359,12 @@
     "input": 0.15
   },
   {
+    "model": "deepseek-chat-search",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
     "model": "deepseek-chat-v3-0324",
     "type": "times",
     "channel_type": 1,
@@ -2405,6 +2492,12 @@
   },
   {
     "model": "deepseek-reasoner-all",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "deepseek-reasoner-search",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -4242,6 +4335,13 @@
     "output": 2.5
   },
   {
+    "model": "gemini-3.1-pro-preview",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 37.5,
+    "output": 2.5
+  },
+  {
     "model": "gemini-auto",
     "type": "times",
     "channel_type": 1,
@@ -4372,6 +4472,18 @@
   },
   {
     "model": "glm-4-32b",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4-air-250414",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "glm-4-flash",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
@@ -11288,6 +11400,12 @@
   },
   {
     "model": "zai-org/GLM-4.6",
+    "type": "times",
+    "channel_type": 1,
+    "input": 0.15
+  },
+  {
+    "model": "zero",
     "type": "times",
     "channel_type": 1,
     "input": 0.15
